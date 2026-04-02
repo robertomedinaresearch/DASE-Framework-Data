@@ -1,0 +1,101 @@
+Category,SC_Winner,SC_Acc,Confidence,Valid_K,K_Total,Pool_Candidates,Pool_Inferences,Total_Inferences,Duration,Infra_Noise,Infra_Noise_Rate,Cost
+Frontier Math (AIME),ABCD,0,0.4667,15,70,BCD,5,75,211.28,6,0.08,1.7744
+Frontier Math (AIME),166,0,1.0,1,70,,5,75,449.38,69,0.92,0.0439
+Frontier Math (AIME),12,0,0.2857,7,70,,5,75,363.92,47,0.6267,0.34142
+Frontier Math (AIME),PCA,0,0.5,2,70,,5,75,350.59,27,0.36,0.53746
+Frontier Math (AIME),672,0,0.1786,56,70,,5,75,208.72,14,0.1867,0.43232
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,231.36,19,0.2533,0.66579
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,306.28,35,0.4667,0.43665
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,297.8,34,0.4533,0.38983
+Frontier Math (AIME),-\frac{3x^2}{8} + 60x\right,0,0.5,2,70,,5,75,166.97,11,0.1467,0.54225
+Frontier Math (AIME),344,0,0.5,2,70,,5,75,187.08,22,0.2933,0.33137
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,349.1,35,0.4667,0.77904
+Frontier Math (AIME),n,0,0.6667,3,70,,5,75,340.6,30,0.4,1.21813
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,495.86,75,1.0,0.0
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,192.45,15,0.2,0.46468
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,202.63,12,0.16,0.84655
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,467.92,63,0.84,0.30116
+Frontier Math (AIME),Answer,0,1.0,1,70,,5,75,271.22,15,0.2,0.98011
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,313.8,41,0.5467,0.42241
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,373.2,45,0.6,0.66836
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,301.81,33,0.44,0.65999
+Frontier Math (AIME),30^2 \cdot 29 \cdot 28 + 29 \cdot 28,0,1.0,1,70,,5,75,458.26,56,0.7467,0.31769
+Frontier Math (AIME),hexagon,0,0.3333,3,70,,5,75,230.53,12,0.16,0.77797
+Frontier Math (AIME),EBD,0,0.9444,18,70,,5,75,269.5,26,0.3467,0.5708
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,271.51,30,0.4,0.25322
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,170.88,14,0.1867,0.38419
+Frontier Math (AIME),PR,0,1.0,1,70,,5,75,188.4,15,0.2,0.83435
+Frontier Math (AIME),\triangle AEF,0,1.0,1,70,,5,75,432.02,56,0.7467,0.29743
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,262.46,21,0.28,0.99317
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,358.73,55,0.7333,0.14079
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,269.37,32,0.4267,0.43209
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,254.89,16,0.2133,1.13007
+Frontier Math (AIME),8008,0,1.0,1,70,,5,75,407.62,53,0.7067,0.33296
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,321.77,35,0.4667,0.84568
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,338.13,50,0.6667,0.34214
+Frontier Math (AIME),112,0,0.1429,7,70,16 | 5760,5,75,422.78,40,0.5333,1.21355
+Frontier Math (AIME),1050,0,0.125,8,70,,5,75,429.99,64,0.8533,0.13618
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,224.9,26,0.3467,0.4794
+Frontier Math (AIME),DEF,0,0.1667,12,70,,5,75,267.17,18,0.24,1.16898
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,512.81,71,0.9467,0.06663
+Frontier Math (AIME),ABF,0,0.125,8,70,,5,75,262.44,20,0.2667,0.81937
+Frontier Math (AIME),9,0,0.6,5,70,,5,75,351.98,34,0.4533,0.78311
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,402.33,46,0.6133,0.39073
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,210.48,20,0.2667,0.36511
+Frontier Math (AIME),17,0,0.3333,15,70,ABC,5,75,221.45,14,0.1867,1.12945
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,433.17,63,0.84,0.08977
+Frontier Math (AIME),69,1,1.0,1,70,\frac{AB}{BD} = \frac{CD}{DE}.\,5,75,296.52,18,0.24,0.63749
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,301.17,11,0.1467,0.90474
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,374.42,40,0.5333,0.92429
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,284.96,43,0.5733,0.18401
+Frontier Math (AIME),-14   27,0,1.0,1,70,,5,75,316.74,26,0.3467,1.07113
+Frontier Math (AIME),3,0,0.7778,9,70,3,5,75,422.19,64,0.8533,0.21276
+Frontier Math (AIME),85,0,1.0,1,70,,5,75,217.06,19,0.2533,0.60731
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,250.42,27,0.36,0.43646
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,302.11,42,0.56,0.37508
+Frontier Math (AIME),\frac{1}{2} \left[ 540540 - 820 - 6 \right,0,0.0769,13,70,60\,5,75,341.29,32,0.4267,0.78739
+Frontier Math (AIME),\frac{\pi}{3} \cdot 18^2 - \frac{1}{2} \cdot \pi \cdot 18^2\right,0,0.25,4,70,,5,75,268.06,23,0.3067,0.62473
+Frontier Math (AIME),"a_1,a_7",0,0.3333,3,70,,5,75,286.93,29,0.3867,0.47405
+Frontier Math (AIME),(88\cdot\sqrt{3}) + (78),0,1.0,1,70,,5,75,404.94,45,0.6,0.87378
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,284.77,29,0.3867,0.92134
+Frontier Math (AIME),3,0,1.0,13,70,3 | 3 | 3 | 3 | 3,5,75,398.03,57,0.76,0.11556
+Frontier Math (AIME),968,1,0.9556,45,70,,5,75,212.63,20,0.2667,0.51518
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,292.06,25,0.3333,0.60783
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,352.83,34,0.4533,0.70751
+Frontier Math (AIME),b_n = (n-1)(n-2)(b_{n-4} + (n-4)b_{n-4} + 3(n-4)^2) + 3n(n-1)\,0,1.0,1,70,,5,75,320.24,36,0.48,0.66151
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,290.03,30,0.4,0.60578
+Frontier Math (AIME),739,0,0.3333,3,70,399 | 623,5,75,404.87,58,0.7733,0.32972
+Frontier Math (AIME),"\frac{999}{1000}, 1 \right",0,0.1667,6,70,,5,75,272.48,18,0.24,1.08125
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,414.28,58,0.7733,0.14419
+Frontier Math (AIME),"20 \sin \theta, 20 \sin 90^\circ\right",0,0.2,5,70,"12, 12 | n",5,75,268.19,15,0.2,0.8998
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,309.24,34,0.4533,0.52855
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,319.42,41,0.5467,0.459
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,238.38,19,0.2533,0.61159
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,427.83,46,0.6133,0.45413
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,396.28,13,0.1733,1.05637
+Frontier Math (AIME),3,0,1.0,1,70,,5,75,345.23,40,0.5333,0.70942
+Frontier Math (AIME),180,1,0.8696,23,70,180 | 180 | 150 | 180 | 180,5,75,318.32,39,0.52,0.59108
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,312.34,38,0.5067,0.45055
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,318.65,38,0.5067,0.34978
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,282.81,25,0.3333,0.48803
+Frontier Math (AIME),k from 1 to k,0,0.5,2,70,,5,75,204.53,18,0.24,0.6009
+Frontier Math (AIME),324,0,0.0811,37,70,,5,75,306.3,15,0.2,1.09609
+Frontier Math (AIME),960,0,1.0,1,70,,5,75,462.52,64,0.8533,0.16368
+Frontier Math (AIME),4,0,0.5,4,70,,5,75,284.85,17,0.2267,1.04551
+Frontier Math (AIME),= \log_2(x) + \log_2(y) + \log_2(z) + \log_2(y) + \log_2(z)\,0,0.2,5,70,,5,75,503.29,48,0.64,0.46319
+Frontier Math (AIME),Q=1-\dfrac12\sin\theta+\dfrac1{16}\cos2\theta+\ldots\,0,1.0,1,70,,5,75,340.93,19,0.2533,1.07527
+Frontier Math (AIME),36,0,0.1429,14,70,10,5,75,386.6,49,0.6533,0.73767
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,264.99,32,0.4267,0.31456
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,270.21,28,0.3733,0.60953
+Frontier Math (AIME),3,0,0.8,5,70,,5,75,427.27,53,0.7067,0.47988
+Frontier Math (AIME),2n + (n+2-2k),0,0.5,4,70,,5,75,250.09,15,0.2,1.19323
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,505.21,68,0.9067,0.17162
+Frontier Math (AIME),033,0,0.5,2,70,,5,75,258.76,22,0.2933,0.98872
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,406.16,49,0.6533,0.19981
+Frontier Math (AIME),$\boxed{82}$,0,1.0,1,70,,5,75,380.92,16,0.2133,0.99545
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,402.19,32,0.4267,1.00756
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,391.2,51,0.68,0.23294
+Frontier Math (AIME),IJKL,0,1.0,3,70,,5,75,233.72,22,0.2933,0.7005
+Frontier Math (AIME),no_consensus,0,0.0,0,70,,5,75,342.36,43,0.5733,0.4174
+Frontier Math (AIME),15,1,0.3077,13,70,,5,75,304.32,29,0.3867,0.85302
+Frontier Math (AIME),3,0,0.75,4,70,,5,75,229.36,15,0.2,1.00627

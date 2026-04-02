@@ -1,0 +1,101 @@
+Idx,Category,Qwen_Guess,Llama_Guess,Consensus_S1,DASE_Final,Qwen_Acc,Llama_Acc,Consensus_Acc,DASE_Acc,State,Steps,Cost,Duration,Infra_Noise,Infra_Noise_Rate
+1,Frontier Math (AIME),ABCD,ABCD,ABCD,ABCD,0,0,0,0,UNSTABLE,15,1.2717,698.37,0,0.0
+2,Frontier Math (AIME),164,164,164,164,1,1,1,1,STABLE,1,0.0638099999999999,22.11,0,0.0
+3,Frontier Math (AIME),20,20,20,20,1,1,1,1,STABLE,1,0.04436,23.93,0,0.0
+4,Frontier Math (AIME),153,153,153,153,0,0,0,0,STABLE,1,0.1214099999999999,55.45,0,0.0
+5,Frontier Math (AIME),728,728,728,728,1,1,1,1,STABLE,1,0.03517,24.6,0,0.0
+6,Frontier Math (AIME),empty,empty,empty,0,0,0,0,0,UNSTABLE,15,0.90699,566.93,0,0.0
+7,Frontier Math (AIME),152,152,152,152,1,1,1,1,STABLE,1,0.0800599999999999,30.77,0,0.0
+8,Frontier Math (AIME),501,501,501,501,1,1,1,1,STABLE,1,0.06601,22.96,0,0.0
+9,Frontier Math (AIME),480,480,480,480,1,1,1,1,STABLE,1,0.1245199999999999,51.19,0,0.0
+10,Frontier Math (AIME),106,106,106,106,1,1,1,1,STABLE,1,0.10693,51.93,0,0.0
+11,Frontier Math (AIME),5,5,5,5,1,1,1,1,STABLE,1,0.06352,32.53,0,0.0
+12,Frontier Math (AIME),368,368,368,368,1,1,1,1,UNSTABLE,15,1.02307,627.51,0,0.0
+13,Frontier Math (AIME),250,250,250,250,1,1,1,1,STABLE,1,0.0203099999999999,17.15,0,0.0
+14,Frontier Math (AIME),29,29,29,29,1,1,1,1,STABLE,1,0.10541,44.6,0,0.0
+15,Frontier Math (AIME),112,112,112,112,1,1,1,1,STABLE,1,0.10933,42.94,0,0.0
+16,Frontier Math (AIME),158,158,158,158,1,1,1,1,STABLE,1,0.07814,32.04,0,0.0
+17,Frontier Math (AIME),empty,empty,empty,660,0,0,0,1,STABLE,1,0.11046,44.28,0,0.0
+18,Frontier Math (AIME),empty,empty,empty,987,0,0,0,1,STABLE,1,0.0381699999999999,22.23,0,0.0
+19,Frontier Math (AIME),empty,empty,empty,63,0,0,0,1,STABLE,1,0.03243,32.52,0,0.0
+20,Frontier Math (AIME),empty,empty,empty,72,0,0,0,1,UNSTABLE,15,1.22862,720.26,0,0.0
+21,Frontier Math (AIME),empty,empty,empty,869,0,0,0,1,STABLE,11,0.23398,161.11,0,0.0
+22,Frontier Math (AIME),empty,empty,empty,112,0,0,0,1,STABLE,1,0.14107,74.67,0,0.0
+23,Frontier Math (AIME),empty,empty,empty,37,0,0,0,0,UNSTABLE,15,1.82826,971.81,0,0.0
+24,Frontier Math (AIME),empty,empty,empty,105,0,0,0,1,UNSTABLE,15,1.09137,641.92,0,0.0
+25,Frontier Math (AIME),empty,empty,empty,25,0,0,0,1,STABLE,1,0.00643,17.29,0,0.0
+26,Frontier Math (AIME),empty,empty,empty,89,0,0,0,1,STABLE,14,0.3789899999999999,299.45,0,0.0
+27,Frontier Math (AIME),empty,empty,empty,36,0,0,0,1,UNSTABLE,15,1.4696399999999998,801.08,0,0.0
+28,Frontier Math (AIME),300,300,300,300,1,1,1,1,STABLE,1,0.0992,50.47,0,0.0
+29,Frontier Math (AIME),empty,empty,empty,125,0,0,0,1,UNSTABLE,15,0.7211,441.95,0,0.0
+30,Frontier Math (AIME),empty,empty,empty,913,0,0,0,1,UNSTABLE,15,0.93088,495.46,0,0.0
+31,Frontier Math (AIME),empty,empty,empty,408,0,0,0,1,STABLE,1,0.08631,36.14,0,0.0
+32,Frontier Math (AIME),560,560,560,560,1,1,1,1,STABLE,1,0.1328399999999999,66.58,0,0.0
+33,Frontier Math (AIME),empty,empty,empty,d0,0,0,0,0,STABLE,1,0.1254299999999999,51.45,0,0.0
+34,Frontier Math (AIME),empty,empty,empty,340,0,0,0,1,STABLE,1,0.0185299999999999,25.77,0,0.0
+35,Frontier Math (AIME),empty,empty,empty,88,0,0,0,1,UNSTABLE,15,0.5195799999999999,356.62,0,0.0
+36,Frontier Math (AIME),empty,empty,empty,625,0,0,0,1,STABLE,1,0.15401,75.94,0,0.0
+37,Frontier Math (AIME),729,729,729,729,1,1,1,1,STABLE,1,0.19465,89.19,0,0.0
+38,Frontier Math (AIME),259,259,259,259,1,1,1,1,STABLE,1,0.13028,58.03,0,0.0
+39,Frontier Math (AIME),empty,empty,empty,489,0,0,0,1,STABLE,1,0.1410799999999999,72.1,0,0.0
+40,Frontier Math (AIME),empty,empty,empty,-x + \sqrt{3}y - 5 \right,0,0,0,0,STABLE,1,0.12744,54.85,0,0.0
+41,Frontier Math (AIME),empty,empty,empty,13,0,0,0,1,STABLE,1,0.0306,17.15,0,0.0
+42,Frontier Math (AIME),empty,empty,empty,200,0,0,0,1,STABLE,14,0.67965,430.46,0,0.0
+43,Frontier Math (AIME),empty,empty,empty,79,0,0,0,1,UNSTABLE,15,0.90824,522.67,0,0.0
+44,Frontier Math (AIME),empty,empty,empty,463,0,0,0,1,STABLE,1,0.03138,20.88,0,0.0
+45,Frontier Math (AIME),94,94,94,94,1,1,1,1,STABLE,1,0.03351,19.81,0,0.0
+46,Frontier Math (AIME),\sin(2x)\cos y + \cos(2x)\sin y,\sin(2x)\cos y + \cos(2x)\sin y,\sin(2x)\cos y + \cos(2x)\sin y,\sin(2x)\cos y + \cos(2x)\sin y,0,0,0,0,STABLE,1,0.2115999999999999,96.97,0,0.0
+47,Frontier Math (AIME),330,330,330,330,1,1,1,1,STABLE,1,0.1041999999999999,51.21,0,0.0
+48,Frontier Math (AIME),empty,empty,empty,89,0,0,0,1,STABLE,1,0.2141999999999999,91.45,0,0.0
+49,Frontier Math (AIME),empty,empty,empty,791,0,0,0,1,STABLE,1,0.16457,88.87,0,0.0
+50,Frontier Math (AIME),empty,empty,empty,31,0,0,0,1,UNSTABLE,15,1.22764,700.14,0,0.0
+51,Frontier Math (AIME),empty,empty,empty,52,0,0,0,1,UNSTABLE,15,0.4750999999999999,323.48,0,0.0
+52,Frontier Math (AIME),"\frac{3}{8}, \frac{5}{8}","\frac{3}{8}, \frac{5}{8}","\frac{3}{8}, \frac{5}{8}","\frac{3}{8}, \frac{5}{8}",0,0,0,0,STABLE,1,0.0431799999999999,49.09,0,0.0
+53,Frontier Math (AIME),empty,empty,empty,"0, 4000",0,0,0,0,UNSTABLE,15,1.51992,820.94,0,0.0
+54,Frontier Math (AIME),61,61,61,61,1,1,1,1,STABLE,1,0.1266999999999999,59.01,0,0.0
+55,Frontier Math (AIME),\sum_{n=1}^{40} g(n) \right,\sum_{n=1}^{40} g(n) \right,\sum_{n=1}^{40} g(n) \right,n(n-1),0,0,0,0,UNSTABLE,15,1.2594,713.27,0,0.0
+56,Frontier Math (AIME),empty,empty,empty,972 + 1296,0,0,0,0,STABLE,1,0.04324,39.51,0,0.0
+57,Frontier Math (AIME),empty,empty,empty,61,0,0,0,1,UNSTABLE,15,1.01234,571.46,0,0.0
+58,Frontier Math (AIME),empty,empty,empty,936,0,0,0,1,STABLE,1,0.0178599999999999,22.72,0,0.0
+59,Frontier Math (AIME),empty,empty,empty,450,0,0,0,1,UNSTABLE,15,0.49105,378.35,0,0.0
+60,Frontier Math (AIME),3,3,3,3,0,0,0,0,STABLE,1,0.12627,51.59,0,0.0
+61,Frontier Math (AIME),968,968,968,968,1,1,1,1,STABLE,1,0.02239,8.04,0,0.0
+62,Frontier Math (AIME),empty,empty,empty,106,0,0,0,1,UNSTABLE,15,1.0978599999999998,605.78,0,0.0
+63,Frontier Math (AIME),113,113,113,113,1,1,1,1,STABLE,1,0.04677,26.81,0,0.0
+64,Frontier Math (AIME),empty,empty,empty,561,0,0,0,1,STABLE,10,0.51114,283.93,0,0.0
+65,Frontier Math (AIME),empty,empty,empty,98,0,0,0,1,UNSTABLE,15,1.55326,875.8,0,0.0
+66,Frontier Math (AIME),empty,empty,empty,308,0,0,0,1,STABLE,1,0.1868,86.59,0,0.0
+67,Frontier Math (AIME),"1,1000","1,1000","1,1000","1,1000",0,0,0,0,UNSTABLE,15,1.3939199999999998,819.86,0,0.0
+68,Frontier Math (AIME),empty,empty,empty,515,0,0,0,1,STABLE,12,0.4773799999999999,310.38,0,0.0
+69,Frontier Math (AIME),empty,empty,empty,736,0,0,0,1,UNSTABLE,15,1.0436899999999998,623.86,0,0.0
+70,Frontier Math (AIME),empty,empty,empty,144,0,0,0,1,UNSTABLE,15,1.53957,828.77,0,0.0
+71,Frontier Math (AIME),empty,empty,empty,57,0,0,0,1,STABLE,1,0.1245299999999999,60.87,0,0.0
+72,Frontier Math (AIME),empty,empty,empty,118,0,0,0,1,STABLE,1,0.05311,31.88,0,0.0
+73,Frontier Math (AIME),empty,empty,empty,295,0,0,0,1,UNSTABLE,15,0.9463,631.58,0,0.0
+74,Frontier Math (AIME),empty,empty,empty,empty,0,0,0,0,UNSTABLE,15,1.74701,957.13,0,0.0
+75,Frontier Math (AIME),108,108,108,108,1,1,1,1,STABLE,1,0.0814999999999999,37.12,0,0.0
+76,Frontier Math (AIME),180,180,180,180,1,1,1,1,STABLE,1,0.08857,42.47,0,0.0
+77,Frontier Math (AIME),150,150,150,150,1,1,1,1,STABLE,1,0.0267099999999999,18.48,0,0.0
+78,Frontier Math (AIME),365,365,365,365,1,1,1,1,STABLE,1,0.07539,47.52,0,0.0
+79,Frontier Math (AIME),empty,empty,empty,"0,1",0,0,0,0,UNSTABLE,15,1.11488,650.81,0,0.0
+80,Frontier Math (AIME),empty,empty,empty,350,0,0,0,1,STABLE,12,0.2982,198.94,0,0.0
+81,Frontier Math (AIME),216,216,216,216,1,1,1,1,STABLE,1,0.07453,56.19,0,0.0
+82,Frontier Math (AIME),120,120,120,120,1,1,1,1,STABLE,1,0.1983399999999999,87.37,0,0.0
+83,Frontier Math (AIME),17,17,17,17,1,1,1,1,STABLE,1,0.12875,59.53,0,0.0
+84,Frontier Math (AIME),33,33,33,33,1,1,1,1,STABLE,1,0.0685699999999999,31.7,0,0.0
+85,Frontier Math (AIME),empty,empty,empty,"1, -1, -1, 1",0,0,0,0,UNSTABLE,15,1.3578,752.14,0,0.0
+86,Frontier Math (AIME),52,52,52,52,1,1,1,1,STABLE,1,0.0944899999999999,43.09,0,0.0
+87,Frontier Math (AIME),336,336,336,336,1,1,1,1,STABLE,1,0.14926,67.47,0,0.0
+88,Frontier Math (AIME),empty,empty,empty,(y^2 - 20y) + 121,0,0,0,0,STABLE,1,0.12711,50.11,0,0.0
+89,Frontier Math (AIME),empty,empty,empty,"20000, 30000",0,0,0,0,UNSTABLE,15,1.13526,697.18,0,0.0
+90,Frontier Math (AIME),empty,empty,empty,89,0,0,0,1,UNSTABLE,15,0.63417,449.34,0,0.0
+91,Frontier Math (AIME),997,997,997,997,1,1,1,1,STABLE,1,0.13125,59.94,0,0.0
+92,Frontier Math (AIME),empty,empty,empty,737,0,0,0,1,UNSTABLE,15,1.29468,706.69,0,0.0
+93,Frontier Math (AIME),753,753,753,753,1,1,1,1,STABLE,1,0.0379899999999999,14.99,0,0.0
+94,Frontier Math (AIME),727,727,727,727,0,0,0,0,UNSTABLE,15,1.19061,713.68,0,0.0
+95,Frontier Math (AIME),676,676,676,676,1,1,1,1,STABLE,1,0.14048,62.24,0,0.0
+96,Frontier Math (AIME),21,21,21,21,1,1,1,1,STABLE,1,0.0682499999999999,25.14,0,0.0
+97,Frontier Math (AIME),"-s/2, s/2","-s/2, s/2","-s/2, s/2","-s/2, s/2",0,0,0,0,UNSTABLE,15,1.7731,951.64,0,0.0
+98,Frontier Math (AIME),empty,empty,empty,463,0,0,0,1,STABLE,1,0.02728,33.37,0,0.0
+99,Frontier Math (AIME),1,1,1,1,0,0,0,0,STABLE,1,0.08348,50.28,0,0.0
+100,Frontier Math (AIME),empty,empty,empty,265,0,0,0,1,STABLE,14,0.4172899999999999,295.5,0,0.0

@@ -1,0 +1,101 @@
+Category,Consensus_S1,DASE_Final,S1_Acc,DASE_Acc,State,Commit_Reason,Steps,Final_X,Spatial_Cost,Alpha_Weight,Cost,Tokens,Duration,Infra_Noise,Infra_Noise_Rate
+Frontier Math (AIME),ABCD,ABCD,0,0,STABLE,left_wall,10,-8,0.1,0.2,0.435165,87033,431.44,0,0.0
+Frontier Math (AIME),empty,164,0,1,STABLE,right_wall,10,8,0.1,0.2,0.28868,57736,319.24,0,0.0
+Frontier Math (AIME),20,20,1,1,STABLE,right_wall,12,8,0.12,0.2,0.281195,56239,291.55,0,0.0
+Frontier Math (AIME),153,153,0,0,UNSTABLE,fallback,15,7,0.15,0.2,0.65423,130846,679.01,0,0.0
+Frontier Math (AIME),728,728,1,1,UNSTABLE,fallback,15,5,0.15,0.2,0.370875,74175,467.94,0,0.0
+Frontier Math (AIME),k,0,0,0,STABLE,left_wall,8,-8,0.08,0.2,0.440215,88043,391.82,0,0.0
+Frontier Math (AIME),empty,152,0,1,STABLE,right_wall,12,8,0.12,0.2,0.38741,77482,455.5,0,0.0
+Frontier Math (AIME),501,501,1,1,UNSTABLE,fallback,15,7,0.15,0.2,0.539055,107811,543.06,0,0.0
+Frontier Math (AIME),empty,480,0,1,UNSTABLE,fallback,15,5,0.15,0.2,0.55106,110212,605.02,0,0.0
+Frontier Math (AIME),empty,106,0,1,STABLE,right_wall,12,8,0.12,0.2,0.356045,71209,488.96,0,0.0
+Frontier Math (AIME),5,5,1,1,STABLE,right_wall,8,8,0.08,0.2,0.271805,54361,263.13,0,0.0
+Frontier Math (AIME),2(n+1) - n(1+i) \right,368,0,1,STABLE,left_wall,8,-8,0.08,0.2,0.294,58800,379.66,0,0.0
+Frontier Math (AIME),250,250,1,1,STABLE,right_wall,10,8,0.1,0.2,0.331755,66351,323.0,0,0.0
+Frontier Math (AIME),29,29,1,1,UNSTABLE,fallback,15,7,0.15,0.2,0.5108,102160,501.15,0,0.0
+Frontier Math (AIME),112,112,1,1,STABLE,right_wall,8,8,0.08,0.2,0.292495,58499,271.2,0,0.0
+Frontier Math (AIME),158,158,1,1,STABLE,right_wall,8,8,0.08,0.2,0.25005,50010,271.58,0,0.0
+Frontier Math (AIME),empty,660,0,1,UNSTABLE,fallback,15,5,0.15,0.2,0.5411,108220,661.05,0,0.0
+Frontier Math (AIME),987,987,1,1,UNSTABLE,fallback,15,3,0.15,0.2,0.492315,98463,572.06,0,0.0
+Frontier Math (AIME),empty,63,0,1,UNSTABLE,fallback,15,5,0.15,0.2,0.758395,151679,680.98,0,0.0
+Frontier Math (AIME),72,72,1,1,STABLE,right_wall,8,8,0.08,0.2,0.209075,41815,331.09,0,0.0
+Frontier Math (AIME),empty,869,0,1,STABLE,right_wall,12,8,0.12,0.2,0.22759,45518,310.3,0,0.0
+Frontier Math (AIME),112,112,1,1,STABLE,right_wall,14,8,0.14,0.2,0.62762,125524,576.45,0,0.0
+Frontier Math (AIME),empty,EBD,0,0,UNSTABLE,fallback,15,5,0.15,0.2,0.62173,124346,663.59,0,0.0
+Frontier Math (AIME),empty,105,0,1,UNSTABLE,fallback,15,7,0.15,0.2,0.465495,93099,676.28,0,0.0
+Frontier Math (AIME),empty,25,0,1,STABLE,right_wall,10,8,0.1,0.2,0.222445,44489,235.5,0,0.0
+Frontier Math (AIME),89,89,1,1,UNSTABLE,fallback,15,5,0.15,0.2,0.473375,94675,501.66,0,0.0
+Frontier Math (AIME),empty,36,0,1,STABLE,left_wall,10,-8,0.1,0.2,0.44749,89498,447.66,0,0.0
+Frontier Math (AIME),empty,300,0,1,STABLE,right_wall,10,8,0.1,0.2,0.283555,56711,350.4,0,0.0
+Frontier Math (AIME),125,125,1,1,UNSTABLE,fallback,15,7,0.15,0.2,0.556225,111245,585.21,0,0.0
+Frontier Math (AIME),empty,913,0,1,UNSTABLE,fallback,15,5,0.15,0.2,0.53658,107316,606.77,0,0.0
+Frontier Math (AIME),empty,408,0,1,UNSTABLE,fallback,15,7,0.15,0.2,0.694525,138905,640.27,0,0.0
+Frontier Math (AIME),560,560,1,1,STABLE,right_wall,10,8,0.1,0.2,0.3807,76140,426.61,0,0.0
+Frontier Math (AIME),empty,"136, 999",0,0,STABLE,left_wall,8,-8,0.08,0.2,0.275875,55175,398.16,0,0.0
+Frontier Math (AIME),340,340,1,1,STABLE,right_wall,10,8,0.1,0.2,0.352755,70551,391.24,0,0.0
+Frontier Math (AIME),88,88,1,1,UNSTABLE,fallback,15,7,0.15,0.2,0.462395,92479,507.42,0,0.0
+Frontier Math (AIME),625,625,1,1,STABLE,left_wall,10,-8,0.1,0.2,0.475075,95015,454.74,0,0.0
+Frontier Math (AIME),empty,729,0,1,STABLE,right_wall,8,8,0.08,0.2,0.372745,74549,367.09,0,0.0
+Frontier Math (AIME),empty,259,0,1,STABLE,left_wall,14,-8,0.14,0.2,0.314075,62815,543.98,0,0.0
+Frontier Math (AIME),489,489,1,1,STABLE,right_wall,12,8,0.12,0.2,0.566905,113381,529.73,0,0.0
+Frontier Math (AIME),-x + \sqrt{3} y - 5 \right,(385 √3)/2,0,0,STABLE,left_wall,8,-8,0.08,0.2,0.2365,47300,345.36,0,0.0
+Frontier Math (AIME),empty,13,0,1,STABLE,right_wall,10,8,0.1,0.2,0.23891,47782,262.89,0,0.0
+Frontier Math (AIME),200,empty,1,0,STABLE,right_wall,14,8,0.14,0.2,0.45056,90112,523.32,0,0.0
+Frontier Math (AIME),79,79,1,1,STABLE,right_wall,12,8,0.12,0.2,0.4915,98300,437.4,0,0.0
+Frontier Math (AIME),463,463,1,1,UNSTABLE,fallback,15,3,0.15,0.2,0.370815,74163,488.61,0,0.0
+Frontier Math (AIME),94,94,1,1,STABLE,right_wall,12,8,0.12,0.2,0.540815,108163,442.95,0,0.0
+Frontier Math (AIME),empty,empty,0,0,STABLE,right_wall,12,8,0.12,0.2,0.57988,115976,529.5,0,0.0
+Frontier Math (AIME),empty,330,0,1,UNSTABLE,fallback,15,-5,0.15,0.2,0.37126,74252,639.82,0,0.0
+Frontier Math (AIME),empty,89,0,1,STABLE,left_wall,12,-8,0.12,0.2,0.528085,105617,560.64,0,0.0
+Frontier Math (AIME),empty,empty,0,0,STABLE,right_wall,8,8,0.08,0.2,0.42355,84710,387.29,0,0.0
+Frontier Math (AIME),empty,31,0,1,UNSTABLE,fallback,15,-5,0.15,0.2,0.554295,110859,713.28,0,0.0
+Frontier Math (AIME),52,52,1,1,STABLE,right_wall,10,8,0.1,0.2,0.34011,68022,316.82,0,0.0
+Frontier Math (AIME),empty,"0,0.25",0,0,UNSTABLE,fallback,15,5,0.15,0.2,0.59234,118468,656.46,0,0.0
+Frontier Math (AIME),empty,"0, 4000",0,0,STABLE,left_wall,12,-8,0.12,0.2,0.435665,87133,560.21,0,0.0
+Frontier Math (AIME),61,61,1,1,STABLE,right_wall,10,8,0.1,0.2,0.42386,84772,404.91,0,0.0
+Frontier Math (AIME),(k^2 + k)^2 - 2(k^2 + k) \right,n(n-1),0,0,STABLE,left_wall,8,-8,0.08,0.2,0.257075,51415,382.64,0,0.0
+Frontier Math (AIME),empty,(x - 18\sqrt{3})^2 + y^2,0,0,STABLE,left_wall,8,-8,0.08,0.2,0.439525,87905,384.26,0,0.0
+Frontier Math (AIME),empty,61,0,1,STABLE,right_wall,12,8,0.12,0.2,0.41577,83154,510.42,0,0.0
+Frontier Math (AIME),936,936,1,1,UNSTABLE,fallback,15,7,0.15,0.2,0.472825,94565,466.52,0,0.0
+Frontier Math (AIME),450,450,1,1,UNSTABLE,fallback,15,7,0.15,0.2,0.480765,96153,574.16,0,0.0
+Frontier Math (AIME),3,empty,0,0,STABLE,right_wall,10,8,0.1,0.2,0.42418,84836,456.76,0,0.0
+Frontier Math (AIME),empty,968,0,1,STABLE,right_wall,8,8,0.08,0.2,0.146575,29315,169.86,0,0.0
+Frontier Math (AIME),106,106,1,1,STABLE,left_wall,12,-8,0.12,0.2,0.456265,91253,546.05,0,0.0
+Frontier Math (AIME),113,113,1,1,UNSTABLE,fallback,15,7,0.15,0.2,0.544665,108933,552.02,0,0.0
+Frontier Math (AIME),561,561,1,1,STABLE,right_wall,10,8,0.1,0.2,0.40932,81864,346.61,0,0.0
+Frontier Math (AIME),empty,98,0,1,STABLE,left_wall,10,-8,0.1,0.2,0.4886,97720,441.35,0,0.0
+Frontier Math (AIME),empty,empty,0,0,STABLE,right_wall,14,8,0.14,0.2,0.40917,81834,697.25,0,0.0
+Frontier Math (AIME),"1, 1000","1,1000",0,0,STABLE,left_wall,8,-8,0.08,0.2,0.433045,86609,392.76,0,0.0
+Frontier Math (AIME),empty,515,0,1,STABLE,right_wall,12,8,0.12,0.2,0.339255,67851,390.01,0,0.0
+Frontier Math (AIME),empty,736,0,1,STABLE,left_wall,8,-8,0.08,0.2,0.327245,65449,376.6,0,0.0
+Frontier Math (AIME),144,144,1,1,UNSTABLE,fallback,15,3,0.15,0.2,0.700795,140159,682.96,0,0.0
+Frontier Math (AIME),57,57,1,1,STABLE,left_wall,14,-8,0.14,0.2,0.44129,88258,631.2,0,0.0
+Frontier Math (AIME),empty,118,0,1,UNSTABLE,fallback,15,5,0.15,0.2,0.46978,93956,494.4,0,0.0
+Frontier Math (AIME),empty,295,0,1,UNSTABLE,fallback,15,3,0.15,0.2,0.68929,137858,701.49,0,0.0
+Frontier Math (AIME),empty,empty,0,0,STABLE,right_wall,10,8,0.1,0.2,0.363695,72739,467.71,0,0.0
+Frontier Math (AIME),108,108,1,1,STABLE,right_wall,14,8,0.14,0.2,0.41295,82590,437.66,0,0.0
+Frontier Math (AIME),180,180,1,1,STABLE,right_wall,8,8,0.08,0.2,0.311365,62273,310.17,0,0.0
+Frontier Math (AIME),150,150,1,1,STABLE,right_wall,12,8,0.12,0.2,0.25732,51464,331.27,0,0.0
+Frontier Math (AIME),365,365,1,1,UNSTABLE,fallback,15,7,0.15,0.2,0.567025,113405,528.67,0,0.0
+Frontier Math (AIME),empty,empty,0,0,STABLE,right_wall,14,8,0.14,0.2,0.620465,124093,678.44,0,0.0
+Frontier Math (AIME),empty,350,0,1,STABLE,right_wall,12,8,0.12,0.2,0.306295,61259,341.91,0,0.0
+Frontier Math (AIME),empty,216,0,1,STABLE,left_wall,14,-8,0.14,0.2,0.51315,102630,610.45,0,0.0
+Frontier Math (AIME),empty,120,0,1,STABLE,left_wall,10,-8,0.1,0.2,0.423515,84703,474.18,0,0.0
+Frontier Math (AIME),empty,17,0,1,STABLE,right_wall,10,8,0.1,0.2,0.30634,61268,357.12,0,0.0
+Frontier Math (AIME),33,33,1,1,UNSTABLE,fallback,15,7,0.15,0.2,0.499705,99941,520.17,0,0.0
+Frontier Math (AIME),(i/2) e^{iθ},"-, -, +, +, -, -, +, +, ...",0,0,STABLE,left_wall,8,-8,0.08,0.2,0.47367,94734,376.04,0,0.0
+Frontier Math (AIME),empty,52,0,1,STABLE,right_wall,8,8,0.08,0.2,0.1659,33180,260.09,0,0.0
+Frontier Math (AIME),empty,336,0,1,UNSTABLE,fallback,15,7,0.15,0.2,0.63296,126592,632.57,0,0.0
+Frontier Math (AIME),empty,"0,10",0,0,STABLE,left_wall,8,-8,0.08,0.2,0.27565,55130,377.58,0,0.0
+Frontier Math (AIME),empty,"30000, 50000",0,0,STABLE,left_wall,8,-8,0.08,0.2,0.343655,68731,365.38,0,0.0
+Frontier Math (AIME),empty,89,0,1,STABLE,right_wall,12,8,0.12,0.2,0.424205,84841,458.34,0,0.0
+Frontier Math (AIME),997,997,1,1,STABLE,right_wall,10,8,0.1,0.2,0.496125,99225,452.42,0,0.0
+Frontier Math (AIME),empty,empty,0,0,STABLE,right_wall,8,8,0.08,0.2,0.21759,43518,386.12,0,0.0
+Frontier Math (AIME),753,753,1,1,UNSTABLE,fallback,15,5,0.15,0.2,0.36761,73522,379.29,0,0.0
+Frontier Math (AIME),"0,1,3,2",727,0,0,STABLE,left_wall,10,-8,0.1,0.2,0.426,85200,492.11,0,0.0
+Frontier Math (AIME),676,676,1,1,STABLE,right_wall,10,8,0.1,0.2,0.405955,81191,438.03,0,0.0
+Frontier Math (AIME),21,21,1,1,STABLE,right_wall,8,8,0.08,0.2,0.26004,52008,265.19,0,0.0
+Frontier Math (AIME),"-s/2, s/2","0,1",0,0,STABLE,left_wall,8,-8,0.08,0.2,0.38804,77608,397.93,0,0.0
+Frontier Math (AIME),463,463,1,1,STABLE,right_wall,12,8,0.12,0.2,0.477695,95539,476.55,0,0.0
+Frontier Math (AIME),"1, k-1",2a + 2(j-1),0,0,STABLE,left_wall,8,-8,0.08,0.2,0.254155,50831,354.47,0,0.0
+Frontier Math (AIME),265,265,1,1,UNSTABLE,fallback,15,1,0.15,0.2,0.476575,95315,505.41,0,0.0

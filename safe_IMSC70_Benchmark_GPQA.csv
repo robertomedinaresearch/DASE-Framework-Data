@@ -1,0 +1,553 @@
+Category,SC_Winner,SC_Acc,Confidence,Valid_K,K_Total,Pool_Candidates,Pool_Inferences,Total_Inferences,Duration,Infra_Noise,Infra_Noise_Rate,Cost
+GPQA (Molecular Biology),C,0,0.5574,61,70,C | C | C | D | D,5,75,148.95,9,0.12,0.330036
+GPQA (Physics (general)),A,1,0.8095,63,70,A | C | C,5,75,198.34,9,0.12,0.34516
+GPQA (Organic Chemistry),A,1,0.7,40,70,(A) | B | A,5,75,394.98,22,0.2933,0.536832
+GPQA (Organic Chemistry),D,0,0.619,42,70,D | D,5,75,408.83,24,0.32,0.686932
+GPQA (Chemistry (general)),C,0,0.6458,48,70,C | C,5,75,420.53,21,0.28,0.603764
+GPQA (Relativistic Mechanics),A,1,1.0,53,70,A | A,5,75,315.98,20,0.2667,0.436674
+GPQA (Organic Chemistry),D,0,0.4423,52,70,A | D | D,5,75,325.59,19,0.2533,0.413066
+GPQA (Organic Chemistry),C,0,0.9259,54,70,C | C | C,5,75,265.62,18,0.24,0.360166
+GPQA (Quantum Mechanics),B,1,0.9403,67,70,B | B | B | B | (B),5,75,221.17,3,0.04,0.468576
+GPQA (Physics (general)),A,0,1.0,58,70,A | A | A | A | A,5,75,225.35,12,0.16,0.40574
+GPQA (Electromagnetism and Photonics),B,1,0.5,62,70,B | B | B | D | D,5,75,157.04,8,0.1067,0.274064
+GPQA (Organic Chemistry),C,0,0.9833,60,70,C | C | C | C | C,5,75,153.79,10,0.1333,0.362914
+GPQA (Chemistry (general)),B,0,0.8444,45,70,B | B | B | B,5,75,442.12,19,0.2533,0.814022
+GPQA (Molecular Biology),C,1,0.9211,38,70,D | D | C | C,5,75,262.8,33,0.44,0.173702
+GPQA (Chemistry (general)),D,1,0.6,40,70,D | D | C | A,5,75,454.2,22,0.2933,0.749192
+GPQA (Chemistry (general)),C,0,0.6735,49,70,C | C,5,75,474.43,24,0.32,0.641302
+GPQA (Quantum Mechanics),D,1,1.0,55,70,D | D,5,75,306.9,18,0.24,0.453676
+GPQA (Chemistry (general)),C,1,0.7255,51,70,D | D | C | C | C,5,75,336.29,19,0.2533,0.543404
+GPQA (Quantum Mechanics),B,1,0.9688,64,70,B | B,5,75,267.25,9,0.12,0.44948
+GPQA (Organic Chemistry),C,0,0.6512,43,70,C | C,5,75,435.57,23,0.3067,0.6199
+GPQA (Genetics),C,1,1.0,50,70,C | C,5,75,204.2,23,0.3067,0.195166
+GPQA (High-energy particle physics),D,1,1.0,65,70,D | D | D | D | D,5,75,101.71,5,0.0667,0.238216
+GPQA (High-energy particle physics),D,1,0.7,60,70,D | D | D | C | C,5,75,295.83,10,0.1333,0.535322
+GPQA (Quantum Mechanics),D,1,0.75,44,70,"D | 0,1,0,0 | σⁱ, 0 | D | D",5,75,407.57,25,0.3333,0.601712
+GPQA (Genetics),A,0,0.8824,34,70,A | A,5,75,367.42,23,0.3067,0.654916
+GPQA (Molecular Biology),A,0,0.5946,37,70,C | C,5,75,266.53,36,0.48,0.132286
+GPQA (Chemistry (general)),B,1,1.0,51,70,B | B | B | B | B,5,75,297.16,18,0.24,0.459224
+GPQA (Organic Chemistry),C,0,0.6735,49,70,B | A | B | C | C,5,75,243.74,21,0.28,0.32851
+GPQA (Organic Chemistry),C,1,0.8065,62,70,C | B | B | C | C,5,75,117.15,8,0.1067,0.230272
+GPQA (Quantum Mechanics),A,0,0.5714,49,70,"V,H,H,D,O,V,D,D,H,H,V,V,O,D,V,V | H,V,H,H,O,V,H,H,H,D,V,V,O,D,H,V | V,H,H,D,O,V,O,H,H,H,V,V,O,D,V,V | A | A",5,75,356.66,21,0.28,0.735292
+GPQA (Physics (general)),A,1,1.0,40,70,A | A,5,75,359.32,30,0.4,0.422726
+GPQA (Astrophysics),C,1,0.9487,39,70,"R = 0.4 \left( \frac{L_{5100}}{10^{44}} \right)^{0.5} \text{ pc}
+\ | C | A | C | C",5,75,394.65,25,0.3333,0.586916
+GPQA (Chemistry (general)),A,1,1.0,50,70,A | A | A | A | A,5,75,227.49,20,0.2667,0.27694
+GPQA (Astrophysics),A,1,0.46,50,70,A | A | B | B,5,75,372.18,19,0.2533,0.55045
+GPQA (Molecular Biology),D,0,1.0,66,70,D | D | D | D | D,5,75,77.76,4,0.0533,0.220002
+GPQA (Genetics),A,0,0.9796,49,70,A | A | A | A | A,5,75,253.48,20,0.2667,0.312598
+GPQA (Molecular Biology),B,1,1.0,67,70,B | B | B | B | B,5,75,92.53,3,0.04,0.273502
+GPQA (Molecular Biology),A,0,0.9189,37,70,A | A,5,75,335.63,21,0.28,0.789544
+GPQA (Condensed Matter Physics),A,0,0.5102,49,70,A | A,5,75,328.43,24,0.32,0.409088
+GPQA (Chemistry (general)),A,1,0.5962,52,70,A | A,5,75,240.51,20,0.2667,0.308608
+GPQA (High-energy particle physics),B,0,0.8846,52,70,B | B,5,75,287.4,20,0.2667,0.382
+GPQA (Organic Chemistry),B,1,0.9828,58,70,B | B,5,75,243.81,15,0.2,0.3036
+GPQA (Astrophysics),C,0,0.5429,70,70,C | C,5,75,282.05,3,0.04,0.416866
+GPQA (Molecular Biology),C,1,1.0,69,70,C | C | C,5,75,61.81,1,0.0133,0.218714
+GPQA (Molecular Biology),B,1,1.0,69,70,B | B | B | B | B,5,75,79.8,0,0.0,0.259972
+GPQA (Molecular Biology),D,0,1.0,64,70,D | D | D | D | D,5,75,105.58,6,0.08,0.205874
+GPQA (Astrophysics),C,1,0.8095,63,70,C | C | C | C | C,5,75,200.2,7,0.0933,0.425504
+GPQA (High-energy particle physics),B,1,1.0,62,70,B | B | B | B | B,5,75,262.75,8,0.1067,0.48392
+GPQA (Astrophysics),B,1,1.0,63,70,B | B | B | B | A,5,75,208.09,7,0.0933,0.38262
+GPQA (Organic Chemistry),C,0,0.8,35,70,C | C,5,75,439.21,20,0.2667,0.782524
+GPQA (Molecular Biology),A,0,0.6531,49,70,A | A,5,75,245.38,24,0.32,0.200592
+GPQA (Organic Chemistry),B,0,0.8511,47,70,B | D | B | B | A,5,75,362.19,18,0.24,0.467276
+GPQA (Organic Chemistry),B,1,0.72,50,70,C | B | B | B,5,75,346.79,16,0.2133,0.603416
+GPQA (Physics (general)),B,1,0.8929,56,70,B | B,5,75,317.07,17,0.2267,0.4042
+GPQA (Physics (general)),A,1,0.9038,52,70,A | A | A | A | A,5,75,248.52,18,0.24,0.372974
+GPQA (Organic Chemistry),D,0,0.5882,51,70,D | D | B,5,75,349.7,18,0.24,0.615392
+GPQA (Chemistry (general)),C,1,0.7843,51,70,C | C,5,75,310.32,22,0.2933,0.377876
+GPQA (Organic Chemistry),C,1,0.9444,54,70,C | C | C,5,75,258.02,18,0.24,0.280132
+GPQA (High-energy particle physics),D,1,1.0,70,70,D | D | D | D | D,5,75,56.58,0,0.0,0.158372
+GPQA (Molecular Biology),A,1,1.0,69,70,A | A | A | A | A,5,75,48.41,1,0.0133,0.183958
+GPQA (High-energy particle physics),C,1,1.0,48,70,C | C | C | C | C,5,75,141.4,7,0.0933,0.497932
+GPQA (Chemistry (general)),B,1,1.0,68,70,B | B | B | B | B,5,75,210.57,2,0.0267,0.439628
+GPQA (Chemistry (general)),D,1,0.717,53,70,B | B | C | D | D,5,75,300.55,17,0.2267,0.446278
+GPQA (Molecular Biology),C,1,1.0,68,70,C | C | C | C | C,5,75,73.78,2,0.0267,0.16529
+GPQA (Analytical Chemistry),B,1,0.5385,52,70,C | C | C | B | B,5,75,267.49,18,0.24,0.419658
+GPQA (Physics (general)),C,0,0.5763,59,70,D | B,5,75,273.1,14,0.1867,0.432928
+GPQA (Chemistry (general)),D,1,1.0,70,70,D | D | D | D | D,5,75,203.65,0,0.0,0.430782
+GPQA (Molecular Biology),C,0,0.5692,65,70,C | C | C | D | D,5,75,128.61,5,0.0667,0.28793
+GPQA (Astrophysics),B,1,0.9808,52,70,B | B | B | B | B,5,75,295.22,18,0.24,0.470128
+GPQA (Chemistry (general)),D,1,1.0,51,70,D | D,5,75,332.44,22,0.2933,0.40329
+GPQA (Organic Chemistry),A,0,0.6087,46,70,nucleophile | A | A,5,75,370.3,22,0.2933,0.72273
+GPQA (High-energy particle physics),C,0,0.8372,43,70,C | C,5,75,379.44,26,0.3467,0.451038
+GPQA (Quantum Mechanics),A,1,1.0,46,70,A | A | A,5,75,205.67,26,0.3467,0.122354
+GPQA (Organic Chemistry),C,0,1.0,62,70,C | C | C | C | C,5,75,121.54,8,0.1067,0.205762
+GPQA (Electromagnetism and Photonics),B,1,1.0,63,70,B | B | B | B | B,5,75,194.69,7,0.0933,0.44952
+GPQA (Astrophysics),D,1,0.7586,58,70,D | D | D | D | B,5,75,326.48,12,0.16,0.59441
+GPQA (Organic Chemistry),A,0,0.5345,58,70,B | B | B | C | C,5,75,200.21,12,0.16,0.339318
+GPQA (Quantum Mechanics),B,1,0.7083,48,70,B | A | A | B | B,5,75,416.64,20,0.2667,0.681228
+GPQA (Molecular Biology),B,1,1.0,50,70,B | B,5,75,278.3,23,0.3067,0.312466
+GPQA (Chemistry (general)),B,0,0.7826,69,70,B | B | A | D | D,5,75,163.78,1,0.0133,0.338826
+GPQA (Organic Chemistry),D,1,0.5102,49,70,A | A | C | D,5,75,333.07,21,0.28,0.416818
+GPQA (Organic Chemistry),A,1,0.9032,31,70,PhOH leaves | CH₂–C(CH₃)₂–CH=CH₂ | A | A,5,75,401.85,21,0.28,0.693086
+GPQA (Organic Chemistry),D,0,0.5714,42,70,D | D,5,75,469.78,25,0.3333,0.713468
+GPQA (Chemistry (general)),D,0,0.871,31,70,A | D,5,75,480.87,25,0.3333,0.71532
+GPQA (Genetics),B,0,0.7273,44,70,C | B | B,5,75,241.22,28,0.3733,0.112432
+GPQA (Organic Chemistry),D,1,0.7826,46,70,D | heat | D | D | D,5,75,412.62,21,0.28,0.653208
+GPQA (Organic Chemistry),C,1,0.56,50,70,C | C,5,75,388.11,23,0.3067,0.604978
+GPQA (Genetics),D,1,0.96,50,70,D | D,5,75,288.54,23,0.3067,0.26187
+GPQA (Molecular Biology),A,1,1.0,64,70,A | A | A | A | A,5,75,107.95,6,0.08,0.201964
+GPQA (Organic Chemistry),D,1,0.7556,45,70,C | D | D | D | D,5,75,314.4,25,0.3333,0.44952
+GPQA (Molecular Biology),A,0,0.5397,63,70,C | C,5,75,151.47,9,0.12,0.251866
+GPQA (Quantum Mechanics),B,0,0.58,50,70,C | C | B | C | C,5,75,240.99,19,0.2533,0.342182
+GPQA (Molecular Biology),D,1,1.0,64,70,D | D | D | D | D,5,75,121.18,6,0.08,0.23839
+GPQA (Molecular Biology),B,1,1.0,57,70,B | B | B,5,75,195.59,15,0.2,0.250496
+GPQA (Genetics),B,1,1.0,66,70,B | B | B | B | B,5,75,131.72,4,0.0533,0.310488
+GPQA (Condensed Matter Physics),B,1,0.9608,51,70,B | B | B | B | B,5,75,306.17,19,0.2533,0.504034
+GPQA (Organic Chemistry),A,0,0.6667,45,70,A | A,5,75,359.77,22,0.2933,0.583294
+GPQA (Chemistry (general)),D,0,0.5556,45,70,D | D,5,75,420.45,27,0.36,0.573266
+GPQA (Organic Chemistry),A,1,0.8298,47,70,D | D | D,5,75,250.63,25,0.3333,0.162126
+GPQA (Chemistry (general)),B,0,0.5741,54,70,B | A | D | B | B,5,75,225.42,16,0.2133,0.35466
+GPQA (Physics (general)),C,0,0.5556,63,70,A | A,5,75,159.91,10,0.1333,0.264124
+GPQA (Electromagnetism and Photonics),C,1,1.0,70,70,C | C | C,5,75,247.22,2,0.0267,0.370374
+GPQA (Genetics),C,0,0.6364,44,70,A | A | A | C | C,5,75,377.66,19,0.2533,0.619344
+GPQA (Organic Chemistry),D,0,0.8,50,70,D | D | A | D | D,5,75,349.74,20,0.2667,0.462348
+GPQA (Organic Chemistry),B,0,0.7358,53,70,B | B | D | B,5,75,324.63,15,0.2,0.484412
+GPQA (Chemistry (general)),A,1,0.5286,70,70,(B) | (B) | B | B | B,5,75,328.4,0,0.0,0.459024
+GPQA (Astrophysics),D,1,0.7714,70,70,D | D | D | C | C,5,75,159.34,0,0.0,0.385556
+GPQA (High-energy particle physics),B,1,0.9836,61,70,C | B | C | B | B,5,75,123.42,9,0.12,0.205198
+GPQA (High-energy particle physics),B,0,0.8235,34,70,"E = 3.57142857 \times 0.938 ≈ ?
+\ | B | B",5,75,437.45,22,0.2933,0.701438
+GPQA (Quantum Mechanics),B,1,0.9322,59,70,A | B,5,75,310.46,14,0.1867,0.406038
+GPQA (Quantum Mechanics),B,1,1.0,65,70,B | B | B | B | B,5,75,78.2,5,0.0667,0.212242
+GPQA (Chemistry (general)),D,1,1.0,54,70,D | D | D | D | D,5,75,267.14,16,0.2133,0.4217
+GPQA (Quantum Mechanics),A,1,1.0,65,70,A | A | D | A | A,5,75,90.62,5,0.0667,0.183322
+GPQA (Statistical Mechanics),D,0,0.5556,63,70,D | D | D | A | A,5,75,219.44,7,0.0933,0.417894
+GPQA (High-energy particle physics),B,1,0.9677,62,70,B | B | B | B | B,5,75,186.98,8,0.1067,0.282984
+GPQA (Electromagnetism and Photonics),B,1,0.6667,42,70,\frac{ 2 \sin^2 i - n_{21}^2 - 1 }{ \sin^2 i - n_{21}^2 } \right | D² * (n1² cos² i + n2² sin² i) | B | C,5,75,478.65,21,0.28,0.772372
+GPQA (Organic Chemistry),C,0,0.8727,55,70,C | C,5,75,266.81,18,0.24,0.306188
+GPQA (Chemistry (general)),A,1,0.8857,70,70,A | A | (A) 6.55 | A | B,5,75,623.65,0,0.0,0.939814
+GPQA (Quantum Mechanics),A,0,0.8788,33,70,E(ρ) | A | A | A,5,75,512.05,21,0.28,0.68521
+GPQA (Quantum Mechanics),B,0,0.5918,49,70,B | B,5,75,341.57,23,0.3067,0.42004
+GPQA (Molecular Biology),A,1,1.0,66,70,A | A | A,5,75,96.64,6,0.08,0.21167
+GPQA (Organic Chemistry),A,0,0.875,32,70,C4 | A | A,5,75,374.35,22,0.2933,0.699546
+GPQA (Organic Chemistry),C,0,0.8723,47,70,C | C,5,75,359.36,26,0.3467,0.499958
+GPQA (Analytical Chemistry),A,0,1.0,42,70,A | A | A | A,5,75,202.86,29,0.3867,0.137866
+GPQA (Organic Chemistry),D,0,0.9,30,70,D | D | D,5,75,428.19,22,0.2933,0.697936
+GPQA (Physics (general)),D,1,1.0,52,70,A | A,5,75,320.78,21,0.28,0.376324
+GPQA (Molecular Biology),C,0,0.4902,51,70,C | C | A | D | C,5,75,324.45,19,0.2533,0.466134
+GPQA (Astrophysics),D,1,0.94,50,70,A | D | D | D | D,5,75,396.37,19,0.2533,0.522948
+GPQA (Organic Chemistry),C,1,0.6364,44,70,C | C,5,75,726.85,13,0.1733,0.938004
+GPQA (Molecular Biology),B,0,1.0,62,70,B | B | B | B | B,5,75,121.14,8,0.1067,0.18685
+GPQA (Organic Chemistry),D,1,0.9535,43,70,D | D | D,5,75,415.71,18,0.24,0.640846
+GPQA (Organic Chemistry),C,0,0.5,50,70,C | C,5,75,451.99,21,0.28,0.617362
+GPQA (Chemistry (general)),C,0,0.4186,43,70,C | A,5,75,473.19,23,0.3067,0.71668
+GPQA (Organic Chemistry),A,0,0.5094,53,70,A | A,5,75,334.44,20,0.2667,0.411796
+GPQA (Chemistry (general)),D,1,0.8906,64,70,B | B | D | D | D,5,75,137.97,6,0.08,0.42262
+GPQA (Electromagnetism and Photonics),A,0,0.7778,36,70,C | ... | A | A,5,75,354.16,25,0.3333,0.518258
+GPQA (Organic Chemistry),A,1,0.6346,52,70,A | A,5,75,433.36,21,0.28,0.553342
+GPQA (Chemistry (general)),A,1,1.0,59,70,A | A,5,75,217.67,14,0.1867,0.250352
+GPQA (Chemistry (general)),C,1,1.0,66,70,C | C | C | C | C,5,75,81.82,4,0.0533,0.201064
+GPQA (Statistical Mechanics),A,1,1.0,57,70,A | A | A | A | A,5,75,279.1,13,0.1733,0.537542
+GPQA (Organic Chemistry),C,0,0.7179,39,70,D | CH₃CH₂–N⁺(CH₃)=CH–CH₂CH₂CH₃ | C | C,5,75,372.24,28,0.3733,0.471028
+GPQA (Organic Chemistry),A,1,1.0,45,70,A | A | A | A | A,5,75,274.07,25,0.3333,0.349424
+GPQA (Relativistic Mechanics),A,0,0.5135,37,70,D | A | A,5,75,474.33,21,0.28,0.725938
+GPQA (Chemistry (general)),D,1,1.0,64,70,D | D,5,75,117.52,9,0.12,0.117014
+GPQA (Organic Chemistry),D,1,1.0,43,70,D | D,5,75,317.28,25,0.3333,0.444692
+GPQA (Quantum Mechanics),D,1,1.0,65,70,D | D | D | D | D,5,75,160.82,5,0.0667,0.36409
+GPQA (Organic Chemistry),B,1,0.5692,65,70,D | D | D | C | C,5,75,95.52,5,0.0667,0.179452
+GPQA (Physics (general)),A,1,0.973,37,70,A | B | A,5,75,529.5,21,0.28,0.780608
+GPQA (Organic Chemistry),C,0,0.5517,29,70,C | A,5,75,448.04,20,0.2667,0.814122
+GPQA (Relativistic Mechanics),C,1,1.0,50,70,C | C,5,75,268.93,23,0.3067,0.222574
+GPQA (Astrophysics),B,1,0.9697,66,70,B | B | B | B | B,5,75,263.31,4,0.0533,0.494036
+GPQA (Quantum Mechanics),A,1,0.9403,67,70,A | A | A | C | (C),5,75,247.08,3,0.04,0.487942
+GPQA (Physics (general)),C,1,0.9649,57,70,C | C | A,5,75,340.18,13,0.1733,0.474394
+GPQA (Organic Chemistry),B,0,0.6818,44,70,C | D | B | B,5,75,337.79,18,0.24,0.607734
+GPQA (Molecular Biology),C,1,1.0,54,70,C | C,5,75,357.64,19,0.2533,0.26388
+GPQA (Chemistry (general)),A,1,0.4219,64,70,A | A | A | B | D,5,75,484.68,6,0.08,0.753796
+GPQA (Quantum Mechanics),C,1,0.8679,53,70,D | D,5,75,414.55,19,0.2533,0.544936
+GPQA (Organic Chemistry),B,0,0.5192,52,70,B | B,5,75,457.0,20,0.2667,0.596016
+GPQA (Organic Chemistry),D,0,0.7955,44,70,D | D,5,75,493.0,23,0.3067,0.676674
+GPQA (Organic Chemistry),B,1,1.0,57,70,B | B,5,75,274.49,16,0.2133,0.315352
+GPQA (Quantum Mechanics),D,1,0.5238,63,70,D | D | A | A,5,75,176.99,8,0.1067,0.214104
+GPQA (Organic Chemistry),C,0,0.7317,41,70,A | (A) 6 | C | C,5,75,581.32,14,0.1867,0.843704
+GPQA (Quantum Mechanics),A,1,0.8519,54,70,A | B,5,75,362.15,19,0.2533,0.425216
+GPQA (Chemistry (general)),C,0,0.6,70,70,C | C | C | A | A,5,75,170.47,0,0.0,0.455924
+GPQA (Molecular Biology),D,1,0.6591,44,70,BamHI | BamHI site | D | D,5,75,485.79,21,0.28,0.84831
+GPQA (Quantum Mechanics),C,1,0.9643,56,70,C | C,5,75,344.92,17,0.2267,0.354092
+GPQA (Physics (general)),D,1,0.9714,70,70,D | D | D | D | D,5,75,258.12,0,0.0,0.479728
+GPQA (Chemistry (general)),C,1,0.9839,62,70,C | C | C | C | C,5,75,408.47,5,0.0667,0.648278
+GPQA (Organic Chemistry),A,0,0.5833,48,70,"3,3 | 2.2.0 | 2+2+2 | A | A",5,75,473.07,22,0.2933,0.706682
+GPQA (High-energy particle physics),A,1,0.5614,57,70,C | D,5,75,353.68,16,0.2133,0.502986
+GPQA (Genetics),D,1,0.9737,38,70,D | D,5,75,371.73,20,0.2667,0.657362
+GPQA (Molecular Biology),A,1,0.875,48,70,A | A,5,75,240.32,25,0.3333,0.11515
+GPQA (High-energy particle physics),A,1,1.0,64,70,A | (A) | A | B | B,5,75,158.41,6,0.08,0.337476
+GPQA (Molecular Biology),C,0,0.5625,64,70,C | C | C | D | D,5,75,125.25,6,0.08,0.225298
+GPQA (Electromagnetism and Photonics),A,1,1.0,54,70,A | A | A | A | A,5,75,185.44,16,0.2133,0.247804
+GPQA (Molecular Biology),B,1,1.0,66,70,B | B | B | B | B,5,75,79.84,4,0.0533,0.192158
+GPQA (Organic Chemistry),C,1,0.5306,49,70,D | B | B | C | C,5,75,372.55,21,0.28,0.522112
+GPQA (Astrophysics),C,1,0.6066,61,70,C | C | A | A,5,75,366.86,10,0.1333,0.643506
+GPQA (Genetics),B,0,0.5357,56,70,D | D | B | B,5,75,219.78,14,0.1867,0.474726
+GPQA (Chemistry (general)),B,1,0.6154,52,70,C | C,5,75,345.02,20,0.2667,0.473912
+GPQA (Organic Chemistry),D,1,0.56,50,70,D | B | B,5,75,420.51,20,0.2667,0.62069
+GPQA (Physics (general)),C,1,0.8958,48,70,C | C,5,75,414.39,23,0.3067,0.541108
+GPQA (Astrophysics),D,0,0.48,50,70,D | D,5,75,400.0,22,0.2933,0.60635
+GPQA (Relativistic Mechanics),B,0,0.6222,45,70,E_p^2 - 2E_p E_\gamma + E_\gamma^2 | B | C,5,75,493.47,21,0.28,0.868664
+GPQA (Physics (general)),A,1,1.0,51,70,A | A,5,75,206.82,22,0.2933,0.20326
+GPQA (Organic Chemistry),D,1,0.9423,52,70,D | D,5,75,305.6,21,0.28,0.421406
+GPQA (Chemistry (general)),B,1,1.0,60,70,B | B,5,75,217.66,11,0.1467,0.325754
+GPQA (Quantum Mechanics),A,1,0.9773,44,70,A | C | C | A | A,5,75,320.69,20,0.2667,0.562012
+GPQA (Quantum Mechanics),A,1,1.0,49,70,A | A,5,75,306.37,24,0.32,0.324394
+GPQA (Molecular Biology),A,1,1.0,64,70,A | A,5,75,139.39,9,0.12,0.228472
+GPQA (Organic Chemistry),B,0,0.5254,59,70,B | B | B | A | A,5,75,188.25,11,0.1467,0.310786
+GPQA (Quantum Mechanics),A,1,1.0,54,70,A | A | A | A | A,5,75,240.45,16,0.2133,0.385728
+GPQA (Organic Chemistry),C,0,0.8529,34,70,D | C | C,5,75,417.37,25,0.3333,0.564906
+GPQA (Electromagnetism and Photonics),C,0,1.0,57,70,C | C | (C) | C | C,5,75,152.82,13,0.1733,0.215762
+GPQA (Organic Chemistry),A,1,0.5217,46,70,D | A | B | A | A,5,75,358.23,22,0.2933,0.536792
+GPQA (Physics (general)),B,1,0.7857,42,70,B | B,5,75,382.98,23,0.3067,0.585514
+GPQA (Quantum Mechanics),C,0,0.6087,46,70,C | C,5,75,404.69,26,0.3467,0.545074
+GPQA (High-energy particle physics),A,1,0.8333,36,70,B | A | A,5,75,267.82,36,0.48,0.059414
+GPQA (Chemistry (general)),D,1,0.8615,65,70,D | D | D | D | D,5,75,235.3,5,0.0667,0.4283
+GPQA (Chemistry (general)),C,1,0.4844,64,70,C | C,5,75,120.16,6,0.08,0.331486
+GPQA (Quantum Mechanics),B,1,0.96,50,70,B | B | (B) | B | B,5,75,331.68,19,0.2533,0.544484
+GPQA (Organic Chemistry),D,1,1.0,43,70,D | D | D | D,5,75,296.63,28,0.3733,0.282768
+GPQA (Genetics),B,1,0.7778,36,70,11 | D | 3 | B | B,5,75,405.79,31,0.4133,0.4514
+GPQA (Organic Chemistry),B,1,0.7778,36,70,A | A | B | B,5,75,318.64,27,0.36,0.43974
+GPQA (Inorganic Chemistry),C,1,0.9683,63,70,C | C,5,75,303.97,10,0.1333,0.492484
+GPQA (Relativistic Mechanics),C,1,0.68,50,70,C | C | C | D | C,5,75,386.86,16,0.2133,0.677576
+GPQA (Organic Chemistry),B,1,0.9535,43,70,B | B,5,75,309.38,28,0.3733,0.376218
+GPQA (Organic Chemistry),B,1,1.0,28,70,cyclohexyl | B | B,5,75,335.14,36,0.48,0.283004
+GPQA (High-energy particle physics),C,1,1.0,60,70,C | C | C | C,5,75,164.89,10,0.1333,0.207984
+GPQA (Quantum Mechanics),A,1,1.0,59,70,A | A | A | A | A,5,75,196.36,11,0.1467,0.342716
+GPQA (Molecular Biology),B,1,1.0,59,70,B | B | B | B | B,5,75,128.35,11,0.1467,0.194722
+GPQA (Chemistry (general)),C,1,0.875,32,70,C | C,5,75,421.55,22,0.2933,0.745094
+GPQA (Quantum Mechanics),B,1,1.0,47,70,B | B,5,75,361.36,24,0.32,0.48194
+GPQA (High-energy particle physics),C,0,0.8298,47,70,C | C,5,75,360.49,24,0.32,0.46678
+GPQA (Inorganic Chemistry),B,0,0.6829,41,70,B | B,5,75,600.28,21,0.28,0.72063
+GPQA (Organic Chemistry),D,1,0.6042,48,70,"5.3.1 | 5.3.1 | 3,3 | D | D",5,75,390.91,22,0.2933,0.671232
+GPQA (Quantum Mechanics),D,1,0.9608,51,70,D | D,5,75,415.63,22,0.2933,0.575114
+GPQA (High-energy particle physics),C,1,0.5692,65,70,D | D,5,75,173.84,8,0.1067,0.185032
+GPQA (Organic Chemistry),B,1,1.0,57,70,B | B | B | B | B,5,75,152.99,13,0.1733,0.263578
+GPQA (Organic Chemistry),B,1,1.0,55,70,B | B | B | B | B,5,75,192.42,15,0.2,0.36034
+GPQA (Quantum Mechanics),D,1,1.0,60,70,D | D | D | D,5,75,302.94,11,0.1467,0.480092
+GPQA (Molecular Biology),C,1,1.0,65,70,C | C | C | C | C,5,75,86.71,5,0.0667,0.217936
+GPQA (Molecular Biology),C,0,0.9074,54,70,C | C | C | C | C,5,75,166.89,16,0.2133,0.239368
+GPQA (Organic Chemistry),A,1,1.0,63,70,A | A | A | A | A,5,75,98.15,7,0.0933,0.204178
+GPQA (Chemistry (general)),D,1,0.7797,59,70,D | D | D | (D) | C,5,75,311.88,11,0.1467,0.556136
+GPQA (Quantum Mechanics),B,1,0.7895,57,70,B | B | B | A | A,5,75,258.08,13,0.1733,0.431984
+GPQA (High-energy particle physics),D,0,0.7778,63,70,D | D | D | D | D,5,75,113.51,7,0.0933,0.210502
+GPQA (High-energy particle physics),C,1,1.0,28,70,C | C,5,75,448.56,25,0.3333,0.66526
+GPQA (Statistical Mechanics),A,1,0.5536,56,70,D | D,5,75,269.58,17,0.2267,0.350764
+GPQA (Organic Chemistry),D,1,0.8636,44,70,B | B | B | D | D,5,75,326.66,21,0.28,0.50763
+GPQA (Genetics),D,1,1.0,56,70,D | D,5,75,181.55,17,0.2267,0.138826
+GPQA (Organic Chemistry),A,1,0.8485,33,70,A | A,5,75,435.49,20,0.2667,0.770182
+GPQA (Organic Chemistry),B,0,0.8529,34,70,B | B,5,75,436.3,25,0.3333,0.608558
+GPQA (Molecular Biology),D,1,0.6667,42,70,D | D,5,75,248.1,31,0.4133,0.103858
+GPQA (Chemistry (general)),B,0,0.5652,46,70,ICl₄ | IF₆ | IF₆ | B | B,5,75,372.36,24,0.32,0.592872
+GPQA (Quantum Mechanics),A,1,1.0,48,70,A | A,5,75,267.52,25,0.3333,0.296122
+GPQA (Chemistry (general)),B,0,0.6491,57,70,B | B | B,5,75,212.59,15,0.2,0.196576
+GPQA (High-energy particle physics),D,1,0.5333,60,70,D | D | D | C | C,5,75,150.57,10,0.1333,0.356656
+GPQA (Astrophysics),B,1,1.0,63,70,B | B | B | B | B,5,75,192.02,7,0.0933,0.344564
+GPQA (Quantum Mechanics),C,1,0.5217,46,70,C | D | D | C | C,5,75,415.17,21,0.28,0.603716
+GPQA (Genetics),B,0,1.0,37,70,B | B,5,75,411.35,25,0.3333,0.555906
+GPQA (Physics (general)),D,1,0.9524,63,70,D | D,5,75,244.21,10,0.1333,0.302912
+GPQA (Astrophysics),C,0,0.5333,60,70,C | C | C | A | A,5,75,139.13,10,0.1333,0.289882
+GPQA (Physics (general)),B,0,0.5088,57,70,C | C | C | B | B,5,75,302.5,13,0.1733,0.526874
+GPQA (High-energy particle physics),A,1,1.0,61,70,A | A | A,5,75,305.44,11,0.1467,0.388742
+GPQA (Organic Chemistry),D,0,0.66,50,70,"2.2.1 | D | 4.4.0.0²,⁵.0³,⁸ | D | D",5,75,386.4,20,0.2667,0.671744
+GPQA (Quantum Mechanics),C,0,0.7,50,70,C | C,5,75,386.61,23,0.3067,0.53344
+GPQA (Physics (general)),C,1,0.4286,49,70,C | B | A,5,75,395.27,23,0.3067,0.444236
+GPQA (Quantum Mechanics),B,1,1.0,58,70,B | B | B,5,75,279.95,14,0.1867,0.398552
+GPQA (Relativistic Mechanics),A,1,1.0,69,70,A | A | A | A | A,5,75,264.11,1,0.0133,0.439124
+GPQA (Physics (general)),A,1,0.7,70,70,(A) | (A) | (A) | C | B,5,75,347.77,0,0.0,0.558074
+GPQA (Molecular Biology),D,1,0.6047,43,70,insert | insert | D | D,5,75,453.0,19,0.2533,1.158518
+GPQA (Quantum Mechanics),B,0,1.0,28,70,B | B,5,75,608.03,22,0.2933,0.875248
+GPQA (High-energy particle physics),D,1,1.0,55,70,D | D,5,75,209.76,18,0.24,0.454666
+GPQA (Genetics),B,1,0.7206,68,70,C | B,5,75,238.58,5,0.0667,0.397428
+GPQA (Organic Chemistry),C,0,0.5957,47,70,18 | 4.2.0 | 18 | C | C,5,75,390.88,22,0.2933,0.629354
+GPQA (Inorganic Chemistry),B,0,1.0,28,70,B | B,5,75,538.21,22,0.2933,0.738058
+GPQA (Organic Chemistry),B,0,0.4348,46,70,C | C,5,75,383.78,22,0.2933,0.473092
+GPQA (Quantum Mechanics),A,1,0.8485,33,70,"√2/√6, √2/√6 | A | A",5,75,385.74,28,0.3733,0.493838
+GPQA (Molecular Biology),A,1,1.0,44,70,A | A | A | A,5,75,238.8,27,0.36,0.103128
+GPQA (High-energy particle physics),B,0,0.6222,45,70,"(E_2 + 0.102)^2 = (0.3065 + E_2 \cos\theta)^2 + 0.261121
+\ | 0.3065 + 0.529 = 0.8355 \text{ MeV}
+\ | E_p = \gamma m = 1.6667 \times 0.511 \approx 0.8517 \text{ MeV}
+\ | B | B",5,75,488.42,23,0.3067,0.67769
+GPQA (Molecular Biology),B,1,0.9574,47,70,B | B | B | B,5,75,440.69,17,0.2267,0.72305
+GPQA (Physics (general)),D,1,0.9286,70,70,D | D | D | C | D,5,75,355.42,0,0.0,0.405084
+GPQA (Molecular Biology),B,0,0.8824,68,70,A | D | A | B | B,5,75,121.17,2,0.0267,0.292984
+GPQA (Quantum Mechanics),D,1,0.8367,49,70,D | D | D | D,5,75,697.5,12,0.16,1.001404
+GPQA (Organic Chemistry),C,0,0.6744,43,70,B | B | C | C | C,5,75,359.07,27,0.36,0.533202
+GPQA (Quantum Mechanics),D,1,0.8406,69,70,D | D,5,75,301.8,4,0.0533,0.48337
+GPQA (Molecular Biology),B,1,0.5645,62,70,A | A | A | B | B,5,75,172.25,8,0.1067,0.473014
+GPQA (Physics (general)),C,0,0.4571,35,70,B | C,5,75,647.95,21,0.28,0.814884
+GPQA (Organic Chemistry),B,1,0.9138,58,70,B | B | B | B | B,5,75,191.66,12,0.16,0.32218
+GPQA (Astrophysics),B,1,0.871,62,70,B | B | B | B | B,5,75,566.56,5,0.0667,0.81211
+GPQA (Astrophysics),C,1,0.8125,48,70,"R_p² * F_total / (R_A² + R_B²) | F_A = 20.25 F_B
+\ | C | C",5,75,585.21,17,0.2267,0.837242
+GPQA (Astrophysics),D,1,0.6769,65,70,A | A | D | A | D,5,75,244.58,5,0.0667,0.469932
+GPQA (Organic Chemistry),A,0,0.549,51,70,B | B | A | A,5,75,253.82,19,0.2533,0.383536
+GPQA (Astrophysics),B,1,0.9821,56,70,B | B | B | B | B,5,75,237.76,12,0.16,0.412588
+GPQA (Electromagnetism and Photonics),C,1,1.0,60,70,C | C,5,75,180.88,13,0.1733,0.348292
+GPQA (Astrophysics),B,0,0.6364,44,70,E2^2 exp(-E2/5) | D | D | B | B,5,75,328.63,22,0.2933,0.520936
+GPQA (Organic Chemistry),D,1,0.6364,44,70,D | D,5,75,354.32,24,0.32,0.634734
+GPQA (Quantum Mechanics),C,1,1.0,36,70,C | C,5,75,314.15,32,0.4267,0.23196
+GPQA (Molecular Biology),A,0,0.9655,29,70,B | A | A,5,75,557.28,22,0.2933,0.714536
+GPQA (Organic Chemistry),B,1,1.0,47,70,B | B | B | B | B,5,75,368.29,21,0.28,0.570226
+GPQA (Organic Chemistry),B,1,0.6327,49,70,B | B,5,75,383.39,24,0.32,0.579454
+GPQA (Astrophysics),B,0,0.7179,39,70,sqrt(1-e1²)/sqrt(1-e2²) | B | B,5,75,518.61,24,0.32,0.743266
+GPQA (Molecular Biology),C,0,0.8864,44,70,C | C | C | C,5,75,297.24,27,0.36,0.203654
+GPQA (Condensed Matter Physics),A,1,1.0,67,70,A | A | A | A | A,5,75,87.27,3,0.04,0.252666
+GPQA (Organic Chemistry),C,1,0.3864,44,70,CH₂–C(=O)CH₃ | C | 2.2.2 | C | C,5,75,471.15,22,0.2933,0.694532
+GPQA (Organic Chemistry),A,1,0.8788,33,70,A | A,5,75,394.65,23,0.3067,0.636286
+GPQA (Organic Chemistry),A,0,0.9773,44,70,A | A,5,75,290.77,29,0.3867,0.364474
+GPQA (Chemistry (general)),A,1,1.0,56,70,A | A | A | A,5,75,350.35,15,0.2,0.54955
+GPQA (Physics (general)),C,0,0.6222,45,70,A | A | C | C,5,75,329.45,20,0.2667,0.42571
+GPQA (Chemistry (general)),C,1,0.8636,44,70,C | C,5,75,399.62,22,0.2933,0.509444
+GPQA (Chemistry (general)),A,0,0.6567,67,70,A | D | A | B | B,5,75,148.35,3,0.04,0.29672
+GPQA (High-energy particle physics),A,1,0.9811,53,70,A | A | A | A | A,5,75,258.17,17,0.2267,0.510262
+GPQA (Chemistry (general)),D,1,0.5263,57,70,D | D,5,75,224.67,16,0.2133,0.219568
+GPQA (Organic Chemistry),A,1,0.5556,54,70,A | A | A | C | C,5,75,319.29,16,0.2133,0.556556
+GPQA (Physics (general)),B,1,1.0,63,70,B | B,5,75,158.2,10,0.1333,0.146854
+GPQA (Astrophysics),B,1,0.5862,58,70,B | B | B | A | C,5,75,300.25,12,0.16,0.588514
+GPQA (Organic Chemistry),B,0,0.6667,36,70,B | B,5,75,413.84,21,0.28,0.727326
+GPQA (Organic Chemistry),D,1,0.9655,29,70,D | D,5,75,377.73,23,0.3067,0.675556
+GPQA (Physics (general)),B,0,1.0,29,70,B | A,5,75,329.06,44,0.5867,0.058522
+GPQA (Physics (general)),B,1,0.6129,62,70,B | B | B | D | D,5,75,127.91,8,0.1067,0.360826
+GPQA (High-energy particle physics),C,0,1.0,47,70,C | C | C | C | C,5,75,383.91,20,0.2667,0.63951
+GPQA (Chemistry (general)),A,0,0.549,51,70,A | A,5,75,253.99,22,0.2933,0.288938
+GPQA (Chemistry (general)),B,1,0.7568,37,70,B | B,5,75,379.95,21,0.28,0.73048
+GPQA (Molecular Biology),C,1,0.9512,41,70,C | C,5,75,229.08,32,0.4267,0.102184
+GPQA (Molecular Biology),B,1,1.0,61,70,B | B | B | B | B,5,75,118.85,9,0.12,0.175936
+GPQA (Organic Chemistry),B,0,0.7778,36,70,3.3.1 | B | B,5,75,411.71,20,0.2667,0.717282
+GPQA (Quantum Mechanics),D,0,0.54,50,70,D | D,5,75,316.33,23,0.3067,0.345516
+GPQA (Physics (general)),D,0,1.0,57,70,D | D | D,5,75,297.46,15,0.2,0.459666
+GPQA (Organic Chemistry),B,0,0.725,40,70,CH₂–CH=CH–CH₂–C=O | A | B | B,5,75,347.34,24,0.32,0.561894
+GPQA (Organic Chemistry),D,0,0.8,35,70,D | D,5,75,390.28,27,0.36,0.508708
+GPQA (Organic Chemistry),D,1,0.7179,39,70,(fluoro)(phenyl)methyl | D | D,5,75,330.63,32,0.4267,0.319118
+GPQA (High-energy particle physics),C,1,0.7,50,70,B | B | C | C | C,5,75,199.5,20,0.2667,0.182262
+GPQA (Organic Chemistry),A,1,0.7083,48,70,A | A | A,5,75,392.37,21,0.28,0.543714
+GPQA (Chemistry (general)),B,0,0.6222,45,70,D | D | sum of all bond energies | B | B,5,75,412.84,25,0.3333,0.594656
+GPQA (Molecular Biology),C,0,0.6522,46,70,C | C,5,75,350.13,21,0.28,0.565468
+GPQA (Molecular Biology),B,1,1.0,57,70,B | B,5,75,171.41,16,0.2133,0.24745
+GPQA (Chemistry (general)),C,1,0.9833,60,70,C | C | C | C | C,5,75,156.76,10,0.1333,0.28918
+GPQA (Organic Chemistry),B,0,0.5833,48,70,D | 4.4.0 | B | B,5,75,362.81,21,0.28,0.587366
+GPQA (Organic Chemistry),D,0,0.8529,34,70,D | D,5,75,434.42,23,0.3067,0.690058
+GPQA (Physics (general)),C,0,0.7568,37,70,C | C,5,75,436.27,26,0.3467,0.626932
+GPQA (Organic Chemistry),C,0,0.7222,36,70,6 | C | C,5,75,439.06,28,0.3733,0.608556
+GPQA (Molecular Biology),C,1,1.0,45,70,C | C | C | C,5,75,220.38,26,0.3467,0.123738
+GPQA (Organic Chemistry),D,0,0.6667,51,70,D | D | D | D | D,5,75,299.9,19,0.2533,0.558226
+GPQA (Quantum Mechanics),A,0,0.549,51,70,A | A,5,75,255.86,22,0.2933,0.202764
+GPQA (Chemistry (general)),A,0,0.8235,34,70,C | A | A,5,75,402.12,20,0.2667,0.762434
+GPQA (Organic Chemistry),C,1,0.8333,42,70,C | C,5,75,463.79,22,0.2933,0.592806
+GPQA (Organic Chemistry),B,1,0.5818,55,70,B | B,5,75,338.07,18,0.24,0.351196
+GPQA (High-energy particle physics),A,0,0.6415,53,70,\partial_\mu - i e A_\mu | A | A,5,75,441.37,19,0.2533,0.676094
+GPQA (Organic Chemistry),B,0,0.8333,36,70,A | A,5,75,395.62,21,0.28,0.642736
+GPQA (Molecular Biology),B,1,1.0,32,70,B | B,5,75,311.42,41,0.5467,0.073936
+GPQA (High-energy particle physics),B,0,0.5714,56,70,B | D | B | A,5,75,358.42,14,0.1867,0.606844
+GPQA (Molecular Biology),B,0,0.5882,51,70,B | B,5,75,266.82,18,0.24,0.43057
+GPQA (High-energy particle physics),A,0,0.4167,48,70,C | A,5,75,399.72,24,0.32,0.523368
+GPQA (Organic Chemistry),A,1,0.6444,45,70,A | A,5,75,350.46,24,0.32,0.629826
+GPQA (Astrophysics),B,0,0.52,50,70,B | B,5,75,469.45,22,0.2933,0.667964
+GPQA (Molecular Biology),B,1,0.6731,52,70,B | A | A,5,75,548.6,19,0.2533,0.710234
+GPQA (Organic Chemistry),B,0,0.7778,36,70,⁺N(CH₃)₃–CH₂–C₆H₄–CH₂–N⁺(CH₃)₃ | 2-(tert-butyl)benzyl | Ar–CH₂–N⁺(CH₃)₃ | B | B,5,75,381.9,22,0.2933,0.666262
+GPQA (Organic Chemistry),C,1,1.0,48,70,C | C,5,75,251.03,23,0.3067,0.239674
+GPQA (Astrophysics),C,0,0.9123,57,70,C | C | C | D | C,5,75,305.38,13,0.1733,0.46838
+GPQA (Molecular Biology),A,1,0.8511,47,70,A | A | A | A | A,5,75,339.5,22,0.2933,0.579364
+GPQA (Organic Chemistry),B,0,0.5667,30,70,A | A,5,75,460.07,22,0.2933,0.734966
+GPQA (Organic Chemistry),C,1,1.0,28,70,C | C,5,75,368.14,27,0.36,0.543316
+GPQA (Physical Chemistry),D,1,1.0,38,70,D | D | D | D | D,5,75,321.75,32,0.4267,0.226318
+GPQA (Organic Chemistry),B,1,0.7931,58,70,B | B | D | B | B,5,75,176.4,12,0.16,0.318868
+GPQA (Astrophysics),B,1,1.0,60,70,B | B | B | B | B,5,75,155.13,10,0.1333,0.250834
+GPQA (Genetics),B,1,1.0,60,70,B | B | B | B | B,5,75,56.39,2,0.0267,0.15811
+GPQA (Physics (general)),C,1,0.8036,56,70,C | C | C | C | C,5,75,217.8,14,0.1867,0.392158
+GPQA (Molecular Biology),B,1,0.9091,44,70,B | B,5,75,430.99,20,0.2667,0.778574
+GPQA (High-energy particle physics),D,0,0.6512,43,70,D | D,5,75,404.5,28,0.3733,0.566274
+GPQA (Physics (general)),A,0,0.5333,45,70,B | B | B | A | A,5,75,319.9,25,0.3333,0.305572
+GPQA (Genetics),C,1,1.0,70,70,C | C | C | C,5,75,92.81,1,0.0133,0.190832
+GPQA (High-energy particle physics),A,1,0.7581,62,70,B | A | A | A | A,5,75,148.71,8,0.1067,0.246136
+GPQA (Molecular Biology),C,0,0.8919,37,70,C | C | C | C,5,75,351.33,23,0.3067,0.572412
+GPQA (Molecular Biology),D,1,1.0,50,70,D | D,5,75,217.0,23,0.3067,0.25468
+GPQA (Organic Chemistry),D,0,0.6364,44,70,D | D,5,75,330.84,23,0.3067,0.509764
+GPQA (Molecular Biology),A,0,0.9643,28,70,A | A,5,75,388.39,24,0.32,3.62653
+GPQA (Astrophysics),D,1,0.6304,46,70,D | D,5,75,361.17,27,0.36,0.377532
+GPQA (Astrophysics),A,0,0.5098,51,70,D | D | 1 - (5000/6000)^4 | A | A,5,75,415.89,19,0.2533,0.56977
+GPQA (Organic Chemistry),D,0,0.7593,54,70,D | D | D,5,75,345.83,18,0.24,0.535334
+GPQA (High-energy particle physics),A,0,0.7429,35,70,A | A,5,75,451.77,21,0.28,0.715378
+GPQA (Molecular Biology),A,0,1.0,53,70,A | A,5,75,205.32,20,0.2667,0.180158
+GPQA (Quantum Mechanics),D,1,1.0,51,70,D | D | D | D | D,5,75,427.98,19,0.2533,0.638658
+GPQA (Physics (general)),D,1,1.0,68,70,D | D | D | D | D,5,75,54.18,2,0.0267,0.113346
+GPQA (Physics (general)),C,0,0.6042,48,70,"1,1,1 | 1-c; 1-c; 1-c | 3 + 6\cos\theta \right | C | C",5,75,456.17,20,0.2667,0.69842
+GPQA (Molecular Biology),D,1,1.0,66,70,D | D | D,5,75,132.8,6,0.08,0.21149
+GPQA (Organic Chemistry),3.2.0,0,0.3265,49,70,3.2.0 | 3.2.0 | 3.2.0 | C | C,5,75,456.83,21,0.28,0.663786
+GPQA (Molecular Biology),B,0,1.0,63,70,B | B,5,75,148.16,10,0.1333,0.137122
+GPQA (Astrophysics),C,1,0.9385,65,70,D | C | C | C | (C),5,75,375.44,5,0.0667,0.595486
+GPQA (High-energy particle physics),D,0,0.537,54,70,D | D | D | B | B,5,75,202.11,16,0.2133,0.270304
+GPQA (Astrophysics),A,1,0.7246,69,70,A | A | A | D | D,5,75,437.5,1,0.0133,0.722412
+GPQA (Molecular Biology),C,1,1.0,70,70,C | C | C | C | C,5,75,58.03,0,0.0,0.260302
+GPQA (Quantum Mechanics),B,1,1.0,68,70,B | B | B | B | B,5,75,291.28,2,0.0267,0.464984
+GPQA (Quantum Mechanics),C,1,0.88,50,70,C | C | C | C | C,5,75,467.06,19,0.2533,0.684864
+GPQA (Astrophysics),C,1,0.8281,64,70,C | C | C | B | D,5,75,448.86,5,0.0667,0.76918
+GPQA (Quantum Mechanics),C,1,1.0,59,70,C | C | C | C | C,5,75,151.66,11,0.1467,0.26905
+GPQA (Physics (general)),A,1,0.5814,43,70,A | A | A | B | B,5,75,605.68,21,0.28,0.777414
+GPQA (Organic Chemistry),A,0,0.8,35,70,A | A,5,75,371.24,21,0.28,0.70318
+GPQA (Quantum Mechanics),A,1,0.7885,52,70,C | A,5,75,489.2,21,0.28,0.468976
+GPQA (Chemistry (general)),D,1,1.0,70,70,D | D | D | D | D,5,75,295.82,0,0.0,0.441232
+GPQA (Astrophysics),A,1,1.0,70,70,A | A | A | A | A,5,75,112.43,0,0.0,0.239422
+GPQA (Astrophysics),A,1,0.6571,70,70,A | A | A | B | B,5,75,300.72,0,0.0,0.442028
+GPQA (Quantum Mechanics),C,1,1.0,70,70,C | C | C | C | C,5,75,91.66,0,0.0,0.232558
+GPQA (High-energy particle physics),C,1,1.0,67,70,C | C | C | C | C,5,75,502.01,1,0.0133,0.634778
+GPQA (Molecular Biology),A,1,1.0,61,70,A | A | A | A | A,5,75,171.77,9,0.12,0.34726
+GPQA (Molecular Biology),A,1,1.0,68,70,A | A | A | A | A,5,75,69.45,2,0.0267,0.164224
+GPQA (Chemistry (general)),C,0,0.9811,53,70,C | C | C | D | D,5,75,276.83,16,0.2133,0.51361
+GPQA (Quantum Mechanics),D,0,1.0,50,70,D | D,5,75,234.41,23,0.3067,0.233932
+GPQA (Molecular Biology),A,1,1.0,65,70,A | A | A | A | A,5,75,93.22,5,0.0667,0.193198
+GPQA (Organic Chemistry),C,1,1.0,61,70,C | C | C | C | C,5,75,138.61,9,0.12,0.307072
+GPQA (Quantum Mechanics),A,1,0.7368,38,70,A | A | A,5,75,365.08,22,0.2933,0.634682
+GPQA (Organic Chemistry),B,0,0.8519,54,70,B | C,5,75,354.12,18,0.24,0.40691
+GPQA (Physics (general)),B,1,0.8983,59,70,B | B | C | C,5,75,765.92,12,0.16,0.796514
+GPQA (Organic Chemistry),A,0,0.5185,54,70,C | C | C | A | A,5,75,406.65,9,0.12,0.649426
+GPQA (Chemistry (general)),A,1,0.5692,65,70,B | A,5,75,513.15,8,0.1067,0.659874
+GPQA (Organic Chemistry),B,0,0.9333,30,70,B | B,5,75,416.98,22,0.2933,0.6563
+GPQA (Molecular Biology),B,1,0.9118,34,70,B | B,5,75,420.25,24,0.32,0.667456
+GPQA (Genetics),A,1,1.0,36,70,A | A | A | A,5,75,261.95,35,0.4667,0.105426
+GPQA (Organic Chemistry),C,1,0.9808,52,70,"1,1'-biphenyl | C | C | C | C",5,75,407.53,18,0.24,0.55053
+GPQA (High-energy particle physics),B,1,1.0,65,70,B | B | B | B | B,5,75,106.82,5,0.0667,0.215902
+GPQA (Organic Chemistry),D,1,0.4727,55,70,A | D | D | C | C,5,75,226.19,15,0.2,0.283208
+GPQA (Organic Chemistry),D,0,0.56,50,70,B | B | B | D | D,5,75,279.94,20,0.2667,0.4223
+GPQA (Condensed Matter Physics),D,1,1.0,65,70,D | D,5,75,359.67,8,0.1067,0.50356
+GPQA (Organic Chemistry),C,1,0.9792,48,70,C | C | C | C,5,75,346.43,22,0.2933,0.487304
+GPQA (Quantum Mechanics),C,1,0.9857,70,70,A | A,5,75,429.21,3,0.04,0.6068
+GPQA (Chemistry (general)),A,1,0.5714,49,70,PO₄³⁻ | H⁺ | P_total | A | A,5,75,401.57,21,0.28,0.71865
+GPQA (Chemistry (general)),A,1,0.7609,46,70,A | A | A,5,75,376.66,24,0.32,0.428884
+GPQA (Physics (general)),C,1,0.5484,62,70,C | C | B | B,5,75,313.39,9,0.12,0.308408
+GPQA (Relativistic Mechanics),A,1,1.0,70,70,A | A | A | A | A,5,75,254.49,0,0.0,0.43255
+GPQA (Organic Chemistry),C,0,0.5714,49,70,A | A | 4.1.0 | C | C,5,75,353.13,21,0.28,0.583968
+GPQA (Molecular Biology),C,1,0.9778,45,70,C | C,5,75,311.86,21,0.28,0.547168
+GPQA (Astrophysics),A,0,0.8868,53,70,A | A | A,5,75,183.18,19,0.2533,0.143252
+GPQA (High-energy particle physics),B,0,0.931,29,70,B | (B),5,75,574.25,21,0.28,0.855214
+GPQA (Organic Chemistry),A,1,0.9074,54,70,A | A | A | A | A,5,75,227.88,16,0.2133,0.326644
+GPQA (Quantum Mechanics),C,1,0.9434,53,70,C | C | C | C | C,5,75,399.33,15,0.2,0.644592
+GPQA (Organic Chemistry),C,1,0.5135,37,70,(CH₂)₅Br | C | C,5,75,437.45,24,0.32,0.678162
+GPQA (High-energy particle physics),B,0,0.7368,38,70,B | B,5,75,361.25,26,0.3467,0.522112
+GPQA (Relativistic Mechanics),D,1,0.7959,49,70,B | D,5,75,317.28,24,0.32,0.311482
+GPQA (Organic Chemistry),D,1,1.0,66,70,D | D | D | D,5,75,135.07,5,0.0667,0.236744
+GPQA (Molecular Biology),D,1,1.0,67,70,D | D | D | D | D,5,75,80.06,3,0.04,0.232054
+GPQA (Chemistry (general)),C,1,0.5962,52,70,A | (A) | A | C | C,5,75,302.98,16,0.2133,0.523544
+GPQA (High-energy particle physics),C,1,1.0,49,70,C | C,5,75,311.02,22,0.2933,0.36079
+GPQA (Molecular Biology),A,1,1.0,57,70,A | A,5,75,162.17,16,0.2133,0.17575
+GPQA (Molecular Biology),A,1,0.973,37,70,D | D | D | A | A,5,75,311.29,21,0.28,0.509182
+GPQA (Molecular Biology),D,1,1.0,52,70,D | D,5,75,222.65,21,0.28,0.177574
+GPQA (Quantum Mechanics),A,1,1.0,64,70,A | A | A | A | A,5,75,99.94,6,0.08,0.231562
+GPQA (Quantum Mechanics),C,0,0.7414,58,70,C | C | C | C,5,75,318.24,13,0.1733,0.513112
+GPQA (Quantum Mechanics),D,1,1.0,61,70,D | D | D | D | D,5,75,244.2,8,0.1067,0.473816
+GPQA (Molecular Biology),B,1,0.8108,37,70,D | B | B,5,75,416.05,23,0.3067,0.834166
+GPQA (Molecular Biology),D,1,1.0,57,70,D | D,5,75,167.32,16,0.2133,0.160216
+GPQA (Relativistic Mechanics),B,1,0.8421,57,70,B | B | B | B | D,5,75,302.04,13,0.1733,0.553702
+GPQA (Organic Chemistry),C,0,0.7609,46,70,B | CH₃O–CH₂–OCH₂CH₃ | C | C,5,75,301.53,24,0.32,0.416852
+GPQA (Quantum Mechanics),D,0,0.52,50,70,D | D,5,75,385.96,23,0.3067,0.476702
+GPQA (Electromagnetism and Photonics),C,1,0.963,54,70,C | C | C | C | C,5,75,259.62,16,0.2133,0.452226
+GPQA (Relativistic Mechanics),D,1,0.5424,59,70,D | D | D | C | C,5,75,269.83,11,0.1467,0.475032
+GPQA (Molecular Biology),B,1,1.0,58,70,B | B | B | B | B,5,75,137.64,12,0.16,0.199844
+GPQA (Quantum Mechanics),A,1,1.0,67,70,A | A | A | A | A,5,75,144.81,3,0.04,0.343108
+GPQA (Organic Chemistry),B,1,1.0,41,70,B | B | B | B | B,5,75,312.28,17,0.2267,0.559984
+GPQA (Organic Chemistry),D,1,0.5,48,70,C | C,5,75,379.92,23,0.3067,0.547342
+GPQA (Electromagnetism and Photonics),A,0,0.7586,29,70,A | A,5,75,437.99,22,0.2933,0.7336
+GPQA (Organic Chemistry),D,0,0.7,40,70,"3,3 | D | D",5,75,406.12,32,0.4267,0.417974
+GPQA (Molecular Biology),A,0,0.9655,29,70,A | A,5,75,353.09,36,0.48,0.761208
+GPQA (Astrophysics),D,1,0.9322,59,70,D | D,5,75,203.71,14,0.1867,0.286534
+GPQA (Organic Chemistry),B,0,0.697,33,70,A | B,5,75,432.41,20,0.2667,0.789994
+GPQA (Physics (general)),D,1,0.7391,46,70,B | C,5,75,305.87,26,0.3467,0.323746
+GPQA (Astrophysics),A,0,0.5833,48,70,C | Fe/H | C | A | A,5,75,351.71,22,0.2933,0.572942
+GPQA (Organic Chemistry),B,0,0.8,35,70,C | 4+2 | B | B,5,75,342.14,35,0.4667,0.283032
+GPQA (Quantum Mechanics),D,0,0.6829,41,70,"Zhang et al., PRA 2004 | B | D | D",5,75,319.09,29,0.3867,0.333458
+GPQA (Organic Chemistry),C,1,0.8,55,70,A | A | C | C | C,5,75,293.78,14,0.1867,0.50255
+GPQA (Organic Chemistry),B,1,1.0,61,70,B | B | B | B | B,5,75,109.05,9,0.12,0.181858
+GPQA (Electromagnetism and Photonics),C,1,1.0,58,70,C | C | C | C | C,5,75,146.03,12,0.16,0.310708
+GPQA (Molecular Biology),D,0,0.6308,65,70,D | D | D | A | A,5,75,140.4,5,0.0667,0.257148
+GPQA (Chemistry (general)),C,0,0.8485,33,70,B | C | C,5,75,389.16,21,0.28,0.736702
+GPQA (Chemistry (general)),B,0,0.5833,48,70,B | B,5,75,383.72,25,0.3333,0.471502
+GPQA (Organic Chemistry),C,1,0.9667,30,70,C | C,5,75,424.26,22,0.2933,0.720938
+GPQA (Molecular Biology),C,1,0.8298,47,70,C | C,5,75,252.18,26,0.3467,0.13684
+GPQA (Organic Chemistry),B,1,1.0,47,70,D | D | D | B | B,5,75,288.95,19,0.2533,0.500132
+GPQA (Genetics),A,0,0.931,29,70,A | A,5,75,455.41,25,0.3333,0.676836
+GPQA (Quantum Mechanics),C,1,1.0,54,70,C | C,5,75,180.86,19,0.2533,0.123256
+GPQA (Astrophysics),B,1,1.0,70,70,B | B | B | B | B,5,75,105.09,0,0.0,0.268326
+GPQA (Chemistry (general)),C,1,0.9333,60,70,C | C | C | C | A,5,75,233.22,9,0.12,0.42424
+GPQA (High-energy particle physics),C,1,0.9048,63,70,C | B | B,5,75,218.22,9,0.12,0.425156
+GPQA (Electromagnetism and Photonics),C,1,0.5909,66,70,(C) | C | C | B | C,5,75,191.57,4,0.0533,0.400966
+GPQA (High-energy particle physics),D,0,0.5806,62,70,D | D | C | C,5,75,238.65,9,0.12,0.41871
+GPQA (Chemistry (general)),B,1,1.0,67,70,B | B | B | B | B,5,75,109.86,3,0.04,0.231924
+GPQA (Chemistry (general)),B,0,0.6154,39,70,D | B | B,5,75,364.57,25,0.3333,0.541266
+GPQA (Astrophysics),B,1,0.5645,62,70,C | C,5,75,206.62,11,0.1467,0.33939
+GPQA (Molecular Biology),C,1,0.6066,61,70,D | D | D | C | C,5,75,141.88,9,0.12,0.275698
+GPQA (Organic Chemistry),C,1,0.875,32,70,C | C | C,5,75,428.35,24,0.32,0.629628
+GPQA (Organic Chemistry),B,1,0.975,40,70,B | benzene–CH=CH–CH=CH–benzene | B | B | B,5,75,348.73,30,0.4,0.318146
+GPQA (Organic Chemistry),D,1,0.82,50,70,D | D | D | D | D,5,75,288.16,19,0.2533,0.43684
+GPQA (Quantum Mechanics),D,1,0.9344,61,70,D | D | D | D,5,75,324.89,10,0.1333,0.555508
+GPQA (Organic Chemistry),D,0,0.5625,32,70,C | D | D,5,75,426.16,22,0.2933,0.721248
+GPQA (Molecular Biology),C,1,1.0,53,70,C | C,5,75,210.29,20,0.2667,0.2056
+GPQA (Physics (general)),A,0,0.5192,52,70,B | D | B | A | A,5,75,314.87,18,0.24,0.459296
+GPQA (Quantum Mechanics),D,1,0.9804,51,70,D | D,5,75,335.65,22,0.2933,0.478944
+GPQA (Astrophysics),C,1,0.9153,59,70,C | C,5,75,186.26,14,0.1867,0.244456
+GPQA (Organic Chemistry),B,0,0.7838,37,70,B | B | D | D,5,75,447.36,25,0.3333,0.67073
+GPQA (Organic Chemistry),D,1,0.6444,45,70,D | D,5,75,340.24,22,0.2933,0.488536
+GPQA (Statistical Mechanics),B,1,1.0,56,70,B | B,5,75,186.5,17,0.2267,0.192478
+GPQA (High-energy particle physics),D,0,0.9841,63,70,D | D | D | D | D,5,75,130.84,7,0.0933,0.241618
+GPQA (Chemistry (general)),B,1,0.9592,49,70,B | B | B | B | B,5,75,396.87,21,0.28,0.609172
+GPQA (Chemistry (general)),D,1,0.8298,47,70,D | D,5,75,372.99,23,0.3067,0.562522
+GPQA (Quantum Mechanics),B,1,1.0,63,70,B | B,5,75,188.73,10,0.1333,0.269836
+GPQA (Organic Chemistry),A,0,0.8529,34,70,(p-tolyl)₂C⁺ | A | A,5,75,373.44,23,0.3067,0.654608
+GPQA (Genetics),B,1,1.0,52,70,B | B,5,75,227.42,21,0.28,0.12364
+GPQA (Organic Chemistry),B,1,1.0,46,70,B | B | B | B | B,5,75,301.33,19,0.2533,0.520696
+GPQA (Quantum Mechanics),C,0,0.5957,47,70,C | C,5,75,395.74,25,0.3333,0.606836
+GPQA (Physics (general)),B,0,0.7179,39,70,C | B | B,5,75,257.99,33,0.44,0.147178
+GPQA (Chemistry (general)),B,0,0.6316,38,70,C | C | B | B,5,75,361.09,25,0.3333,0.56728
+GPQA (Molecular Biology),D,1,1.0,58,70,D | D,5,75,156.94,15,0.2,0.15691
+GPQA (Molecular Biology),B,1,1.0,65,70,B | B | B | B | B,5,75,106.01,5,0.0667,0.266452
+GPQA (High-energy particle physics),D,1,0.7895,57,70,B | B | B | D | D,5,75,290.64,12,0.16,0.562074
+GPQA (Organic Chemistry),D,0,0.7045,44,70,D | D,5,75,350.24,24,0.32,0.472228
+GPQA (High-energy particle physics),D,1,0.9623,53,70,D | D | D,5,75,337.26,19,0.2533,0.37665
+GPQA (Molecular Biology),B,1,0.9375,48,70,B | B | B,5,75,283.06,24,0.32,0.367298
+GPQA (Organic Chemistry),B,1,0.5932,59,70,B | B | B | B | B,5,75,304.86,11,0.1467,0.492088
+GPQA (Organic Chemistry),D,0,0.431,58,70,A | A | D | B | B,5,75,308.65,12,0.16,0.464256
+GPQA (Organic Chemistry),A,0,0.8182,55,70,A | A | B | A | A,5,75,262.1,15,0.2,0.42002
+GPQA (Molecular Biology),D,1,1.0,61,70,D | D | D | D | D,5,75,140.28,9,0.12,0.296482
+GPQA (Physics (general)),D,1,0.8596,57,70,D | A | A | D | D,5,75,256.14,13,0.1733,0.417436
+GPQA (Astrophysics),A,1,0.9375,48,70,C | A | A,5,75,339.81,23,0.3067,0.49236
+GPQA (Molecular Biology),A,1,0.6296,54,70,A | B | B,5,75,286.84,18,0.24,0.369548
+GPQA (Organic Chemistry),A,0,0.5714,49,70,A | A | A,5,75,329.8,20,0.2667,0.458048
+GPQA (High-energy particle physics),B,1,1.0,65,70,B | B | B | B | A,5,75,268.25,5,0.0667,0.48452
+GPQA (Physics (general)),D,1,0.5965,57,70,B | B | B | B | A,5,75,327.41,12,0.16,0.498964
+GPQA (Chemistry (general)),D,1,0.5122,41,70,D | C | D | D | C,5,75,397.67,21,0.28,0.697022
+GPQA (Chemistry (general)),B,0,0.4792,48,70,B | B,5,75,452.73,24,0.32,0.675576
+GPQA (Organic Chemistry),B,1,1.0,39,70,B | B,5,75,329.63,28,0.3733,0.420904
+GPQA (Chemistry (general)),B,1,1.0,48,70,B | B | B | B,5,75,295.67,23,0.3067,0.226182
+GPQA (Quantum Mechanics),D,1,0.6829,41,70,B | B | B | D | D,5,75,362.05,19,0.2533,0.634366
+GPQA (Molecular Biology),A,1,0.8163,49,70,A | A,5,75,298.85,24,0.32,0.340562
+GPQA (Astrophysics),B,1,0.92,50,70,B | C | C,5,75,357.57,22,0.2933,0.410068
+GPQA (Organic Chemistry),C,1,0.8056,36,70,N₂⁺-CH₂-C₆H₄-CHO | N≡N+ | C | C,5,75,387.04,22,0.2933,0.656668
+GPQA (Quantum Mechanics),B,1,0.96,50,70,B | B,5,75,420.61,23,0.3067,0.430494
+GPQA (Molecular Biology),C,1,1.0,63,70,C | C | C | C | C,5,75,111.63,7,0.0933,0.25246
+GPQA (High-energy particle physics),B,1,1.0,58,70,B | B | B | B | B,5,75,215.56,12,0.16,0.355902
+GPQA (Astrophysics),B,0,0.3443,61,70,C | C | C,5,75,228.36,11,0.1467,0.31585
+GPQA (High-energy particle physics),B,0,0.5254,59,70,B | B | B | A | A,5,75,117.62,11,0.1467,0.164482
+GPQA (Physics (general)),C,1,0.8361,61,70,C | C | C | A,5,75,317.58,10,0.1333,0.53832
+GPQA (Organic Chemistry),A,1,0.7059,34,70,A | B,5,75,356.47,25,0.3333,0.565024
+GPQA (Molecular Biology),C,1,1.0,49,70,C | C,5,75,223.06,24,0.32,0.174736
+GPQA (Physics (general)),B,1,1.0,61,70,B | B | B,5,75,159.23,11,0.1467,0.216296
+GPQA (Organic Chemistry),C,0,0.5111,45,70,CH(COOMe)₂ | A | C | C,5,75,380.4,22,0.2933,0.729374
+GPQA (High-energy particle physics),D,1,0.4828,29,70,C | D,5,75,519.34,23,0.3067,0.783134
+GPQA (Genetics),A,0,0.6087,46,70,A | A,5,75,292.1,27,0.36,0.255316
+GPQA (Physics (general)),C,0,0.4912,57,70,C | C | C | C | C,5,75,135.31,13,0.1733,0.223912
+GPQA (Organic Chemistry),B,1,1.0,61,70,B | B | B | B | B,5,75,199.95,9,0.12,0.404332
+GPQA (Molecular Biology),C,1,1.0,63,70,C | C | C | C | C,5,75,101.71,7,0.0933,0.20092
+GPQA (Quantum Mechanics),C,1,1.0,65,70,C | (C) | (C) | C | C,5,75,263.07,5,0.0667,0.568812
+GPQA (Organic Chemistry),D,0,0.3958,48,70,D | B | D | D | D,5,75,351.81,21,0.28,0.525972
+GPQA (Chemistry (general)),B,1,0.4898,49,70,Fe(CN)₆ | Cu(NH₃)₄ | Fe(CN)₆ | B | B,5,75,471.37,21,0.28,0.7797
+GPQA (Molecular Biology),D,1,1.0,51,70,D | D,5,75,197.13,22,0.2933,0.171638
+GPQA (Organic Chemistry),B,1,0.5102,49,70,B | B | B | A | A,5,75,310.22,18,0.24,0.498054
+GPQA (Molecular Biology),D,1,1.0,67,70,D | D | D,5,75,109.35,5,0.0667,0.21354
+GPQA (Astrophysics),C,0,0.5417,48,70,D | D | 3 | C | B,5,75,420.61,20,0.2667,0.68445
+GPQA (Physics (general)),B,1,1.0,66,70,B | B,5,75,279.69,7,0.0933,0.408122
+GPQA (Organic Chemistry),B,1,0.5614,57,70,B | B | B | C | C,5,75,273.48,10,0.1333,0.485946
+GPQA (Molecular Biology),B,1,0.5323,62,70,B | B | B | B,5,75,132.19,8,0.1067,0.254226
+GPQA (Genetics),A,1,0.5273,55,70,B | B | B | A | A,5,75,224.19,15,0.2,0.333942
+GPQA (Molecular Biology),D,1,1.0,48,70,D | D | D | D | D,5,75,357.66,22,0.2933,0.566786
+GPQA (Astrophysics),C,1,0.75,64,70,C | C | B | C | B,5,75,231.27,6,0.08,0.451886
+GPQA (Optics and Acoustics),A,1,0.7547,53,70,D | A | D | A | A,5,75,256.15,17,0.2267,0.446704
+GPQA (Chemistry (general)),C,1,0.9808,52,70,C | C | C,5,75,340.19,20,0.2667,0.379942
+GPQA (Physics (general)),D,1,0.8971,68,70,D | D | A | D | D,5,75,254.88,2,0.0267,0.511762
+GPQA (Relativistic Mechanics),A,0,0.5172,58,70,A | A | A | C | C,5,75,201.64,12,0.16,0.41545
