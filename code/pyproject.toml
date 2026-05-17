@@ -1,0 +1,72 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "dase-core"
+version = "0.1.0"
+description = "Deliberative Adaptive Stopping Ensemble — a routing layer for LLM ensembles that knows when to trust an answer and proves why."
+readme = "README.md"
+license = "Apache-2.0"
+requires-python = ">=3.10"
+authors = [
+    { name = "Roberto Medina", email = "roberto.medina.research@gmail.com" },
+]
+keywords = [
+    "llm",
+    "ensemble",
+    "routing",
+    "confidence",
+    "hallucination",
+    "adaptive-stopping",
+    "evidence-accumulation",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "numpy>=1.24",
+    "scipy>=1.10",
+]
+
+[project.optional-dependencies]
+examples = [
+    "httpx>=0.24",
+]
+eval = [
+    "sympy>=1.12",
+    "pandas>=2.0",
+]
+dev = [
+    "pytest>=7.0",
+    "pytest-asyncio>=0.21",
+    "ruff>=0.4",
+]
+
+[project.urls]
+Homepage = "https://github.com/robertomedinaresearch/dase-core"
+Paper = "https://arxiv.org/abs/2605.04236v2"
+Data = "https://github.com/robertomedinaresearch/DASE-Framework-Data"
+Issues = "https://github.com/robertomedinaresearch/dase-core/issues"
+
+[tool.hatch.build.targets.wheel]
+only-include = ["dase_core.py"]
+
+[tool.hatch.build.targets.sdist]
+only-include = ["dase_core.py", "LICENSE", "README.md"]
+
+[tool.ruff]
+target-version = "py310"
+line-length = 88
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
